@@ -1,16 +1,30 @@
-### Hi there 👋
+### Oh hi there and welcome👋
 
-<!--
-**bagg3rs/bagg3rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Rich](https://richardbaguley.com/about)
 
-Here are some ideas to get you started:
+#### 👨‍💻 Repositories I created recently
+- **[bagg3rs/github-visualisation](https://github.com/bagg3rs/github-visualisation)** - Used to create a visualisation of commits from GitHub to repositories
+- **[bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code)** - Diagrams as Code repository
+- **[bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com)** - Jekyll and GitHub Actions deploy this to the internets 🌏
+- **[bagg3rs/git-ops](https://github.com/bagg3rs/git-ops)** - GitOps repository template from k8s-at-home/template-cluster-k3s.
+- **[bagg3rs/fluxcd](https://github.com/bagg3rs/fluxcd)** - GitOps for my home ¯\_(ツ)_/¯ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👷 Check out what I'm currently working on
+
+- [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (today)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (today)
+- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (3 days ago)
+- [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 month ago)
+- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (3 months ago)
+- [bagg3rs/fluxcd](https://github.com/bagg3rs/fluxcd) - GitOps for my home ¯\_(ツ)_/¯  (9 months ago)
+- [bagg3rs/git-ops](https://github.com/bagg3rs/git-ops) - GitOps repository template from k8s-at-home/template-cluster-k3s. (9 months ago)
+- [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (9 months ago)
+
+#### ⭐ Recent Stars
+
+
+- **[SirMangler/xenia](https://github.com/SirMangler/xenia)** - Xbox 360 Emulator Research Project for UWP (1 week ago)
+- **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** - Visualize Complex Ideas Programmatically (1 week ago)
+- **[hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes)** - A document management system (2 weeks ago)
+- **[mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)** - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data. (2 weeks ago)
+- **[excalidraw/excalidraw-vscode](https://github.com/excalidraw/excalidraw-vscode)** - Excalidraw for Visual Studio Code (3 weeks ago)
