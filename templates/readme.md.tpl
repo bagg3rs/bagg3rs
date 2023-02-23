@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oh hi there and welcome👋
 
 I'm [Rich](https://richardbaguley.com/about)
 
