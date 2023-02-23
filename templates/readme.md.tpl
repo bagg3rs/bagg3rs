@@ -18,9 +18,3 @@ I'm [Rich](https://richardbaguley.com/about)
 {{ range recentStars 5 }}
 - **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
 {{- end }}
-
-#### 📄 Latest blog posts
-
-{{- range rss "https://richardbaguley.com/feed.xml" 3 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
