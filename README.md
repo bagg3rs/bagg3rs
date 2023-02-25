@@ -11,9 +11,9 @@ I'm [Rich](https://richardbaguley.com/about)
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (1 day ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (1 day ago)
-- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (4 days ago)
+- [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (2 days ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (2 days ago)
+- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (5 days ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 month ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (3 months ago)
 - [bagg3rs/fluxcd](https://github.com/bagg3rs/fluxcd) - GitOps for my home ¯\_(ツ)_/¯  (9 months ago)
@@ -24,7 +24,7 @@ I'm [Rich](https://richardbaguley.com/about)
 
 
 - **[SirMangler/xenia](https://github.com/SirMangler/xenia)** - Xbox 360 Emulator Research Project for UWP (1 week ago)
-- **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** - Visualize Complex Ideas Programmatically (1 week ago)
+- **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** - Visualize Complex Ideas Programmatically (2 weeks ago)
 - **[hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes)** - A document management system (2 weeks ago)
-- **[mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)** - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data. (2 weeks ago)
-- **[excalidraw/excalidraw-vscode](https://github.com/excalidraw/excalidraw-vscode)** - Excalidraw for Visual Studio Code (3 weeks ago)
+- **[mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)** - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data. (3 weeks ago)
+- **[excalidraw/excalidraw-vscode](https://github.com/excalidraw/excalidraw-vscode)** - Excalidraw for Visual Studio Code (4 weeks ago)
