@@ -11,6 +11,7 @@ I'm [Rich](https://richardbaguley.com/about)
 
 #### 👷 Check out what I'm currently working on
 
+- [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (today)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (5 days ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (5 days ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 week ago)
@@ -18,7 +19,6 @@ I'm [Rich](https://richardbaguley.com/about)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (3 months ago)
 - [bagg3rs/fluxcd](https://github.com/bagg3rs/fluxcd) - GitOps for my home ¯\_(ツ)_/¯  (9 months ago)
 - [bagg3rs/git-ops](https://github.com/bagg3rs/git-ops) - GitOps repository template from k8s-at-home/template-cluster-k3s. (9 months ago)
-- [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (9 months ago)
 
 #### ⭐ Recent Stars
 
