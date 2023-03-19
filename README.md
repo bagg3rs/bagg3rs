@@ -18,7 +18,7 @@ I'm [Rich](https://richardbaguley.com/about)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 month ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (4 months ago)
 - [bagg3rs/fluxcd](https://github.com/bagg3rs/fluxcd) - GitOps for my home ¯\_(ツ)_/¯  (9 months ago)
-- [bagg3rs/git-ops](https://github.com/bagg3rs/git-ops) - GitOps repository template from k8s-at-home/template-cluster-k3s. (9 months ago)
+- [bagg3rs/git-ops](https://github.com/bagg3rs/git-ops) - GitOps repository template from k8s-at-home/template-cluster-k3s. (10 months ago)
 
 #### ⭐ Recent Stars
 
