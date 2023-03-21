@@ -3,14 +3,15 @@
 I'm [Rich](https://richardbaguley.com/about)
 
 #### 👨‍💻 Repositories I created recently
+- **[bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks)** - Trying out GitHub Blocks
 - **[bagg3rs/github-visualisation](https://github.com/bagg3rs/github-visualisation)** - Used to create a visualisation of commits from GitHub to repositories
 - **[bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code)** - Diagrams as Code repository
 - **[bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com)** - Jekyll and GitHub Actions deploy this to the internets 🌏
 - **[bagg3rs/git-ops](https://github.com/bagg3rs/git-ops)** - GitOps repository template from k8s-at-home/template-cluster-k3s.
-- **[bagg3rs/fluxcd](https://github.com/bagg3rs/fluxcd)** - GitOps for my home ¯\_(ツ)_/¯ 
 
 #### 👷 Check out what I'm currently working on
 
+- [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (today)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (3 weeks ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (3 weeks ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (3 weeks ago)
