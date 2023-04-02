@@ -1,8 +1,6 @@
-### Oh hi there and welcome 👋
+### Oh hi there and welcome👋
 
-👐 I'm [Rich Baguley](https://richardbaguley.com/about)
-
-🏢 I work [@Ministry of Justice](https://github.com/ministryofjustice) as a Lead Technical Architect on the Data Platform
+I'm [Rich](https://richardbaguley.com/about)
 
 #### 👨‍💻 Repositories I created recently
 - **[bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks)** - Trying out GitHub Blocks
