@@ -29,5 +29,5 @@
 - **[adamiBs/vscode-terraform-live-graph](https://github.com/adamiBs/vscode-terraform-live-graph)** - The Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code. (2 weeks ago)
 - **[SirMangler/xenia](https://github.com/SirMangler/xenia)** - Xbox 360 Emulator Research Project for UWP (1 month ago)
 - **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** - Visualize Complex Ideas Programmatically (1 month ago)
-- **[hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes)** - A document management system (1 month ago)
+- **[hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes)** - A document management system (2 months ago)
 - **[mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)** - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data. (2 months ago)
