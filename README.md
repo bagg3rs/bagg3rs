@@ -19,7 +19,7 @@
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (1 month ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 month ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (2 months ago)
-- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (4 months ago)
+- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (5 months ago)
 - [bagg3rs/fluxcd](https://github.com/bagg3rs/fluxcd) - GitOps for my home ¯\_(ツ)_/¯  (10 months ago)
 - [bagg3rs/git-ops](https://github.com/bagg3rs/git-ops) - GitOps repository template from k8s-at-home/template-cluster-k3s. (10 months ago)
 
