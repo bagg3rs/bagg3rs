@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** - A collective list of free APIs (1 day ago)
 - **[silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet)** - Markdown as a platform (2 weeks ago)
-- **[makeplane/plane](https://github.com/makeplane/plane)** - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (2 weeks ago)
+- **[makeplane/plane](https://github.com/makeplane/plane)** - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (3 weeks ago)
 - **[adamiBs/vscode-terraform-live-graph](https://github.com/adamiBs/vscode-terraform-live-graph)** - The Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code. (1 month ago)
 - **[SirMangler/xenia](https://github.com/SirMangler/xenia)** - Xbox 360 Emulator Research Project for UWP (2 months ago)
-- **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** - Visualize Complex Ideas Programmatically (2 months ago)
