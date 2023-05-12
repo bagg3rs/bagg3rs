@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)** - A plugin to edit and view Excalidraw drawings in Obsidian (2 days ago)
+- **[gleitz/howdoi](https://github.com/gleitz/howdoi)** - instant coding answers via the command line (1 day ago)
+- **[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)** - A plugin to edit and view Excalidraw drawings in Obsidian (3 days ago)
 - **[public-apis/public-apis](https://github.com/public-apis/public-apis)** - A collective list of free APIs (1 week ago)
 - **[silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet)** - Markdown as a platform (3 weeks ago)
 - **[makeplane/plane](https://github.com/makeplane/plane)** - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 month ago)
-- **[adamiBs/vscode-terraform-live-graph](https://github.com/adamiBs/vscode-terraform-live-graph)** - The Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code. (1 month ago)
