@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[gleitz/howdoi](https://github.com/gleitz/howdoi)** - instant coding answers via the command line (2 days ago)
-- **[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)** - A plugin to edit and view Excalidraw drawings in Obsidian (4 days ago)
-- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** - A collective list of free APIs (1 week ago)
-- **[silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet)** - Markdown as a platform (3 weeks ago)
+- **[gleitz/howdoi](https://github.com/gleitz/howdoi)** - instant coding answers via the command line (3 days ago)
+- **[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)** - A plugin to edit and view Excalidraw drawings in Obsidian (5 days ago)
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** - A collective list of free APIs (2 weeks ago)
+- **[silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet)** - Markdown as a platform (4 weeks ago)
 - **[makeplane/plane](https://github.com/makeplane/plane)** - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 month ago)
