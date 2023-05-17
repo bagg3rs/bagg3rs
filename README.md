@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Sub-second search &amp; analytics engine on cloud storage (2 days ago)
-- **[gleitz/howdoi](https://github.com/gleitz/howdoi)** - instant coding answers via the command line (5 days ago)
+- **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Sub-second search &amp; analytics engine on cloud storage (3 days ago)
+- **[gleitz/howdoi](https://github.com/gleitz/howdoi)** - instant coding answers via the command line (6 days ago)
 - **[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)** - A plugin to edit and view Excalidraw drawings in Obsidian (1 week ago)
 - **[public-apis/public-apis](https://github.com/public-apis/public-apis)** - A collective list of free APIs (2 weeks ago)
 - **[silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet)** - Markdown as a platform (1 month ago)
