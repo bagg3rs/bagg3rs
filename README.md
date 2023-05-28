@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** - 📂 Web File Browser (3 days ago)
+- **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** - 📂 Web File Browser (4 days ago)
 - **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** - Omnivore is a complete, open source read-it-later solution for people who like reading. (1 week ago)
-- **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Sub-second search &amp; analytics engine on cloud storage (1 week ago)
+- **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Sub-second search &amp; analytics engine on cloud storage (2 weeks ago)
 - **[gleitz/howdoi](https://github.com/gleitz/howdoi)** - instant coding answers via the command line (2 weeks ago)
 - **[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)** - A plugin to edit and view Excalidraw drawings in Obsidian (2 weeks ago)
