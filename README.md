@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (3 weeks ago)
+- [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (4 weeks ago)
 - [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (2 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (3 months ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (3 months ago)
@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** - 📂 Web File Browser (5 days ago)
+- **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** - 📂 Web File Browser (6 days ago)
 - **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** - Omnivore is a complete, open source read-it-later solution for people who like reading. (1 week ago)
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Sub-second search &amp; analytics engine on cloud storage (2 weeks ago)
 - **[gleitz/howdoi](https://github.com/gleitz/howdoi)** - instant coding answers via the command line (2 weeks ago)
-- **[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)** - A plugin to edit and view Excalidraw drawings in Obsidian (2 weeks ago)
+- **[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)** - A plugin to edit and view Excalidraw drawings in Obsidian (3 weeks ago)
