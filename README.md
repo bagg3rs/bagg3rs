@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 day ago)
+- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (today)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (1 month ago)
 - [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (2 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (3 months ago)
