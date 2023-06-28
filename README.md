@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
+- **[ncase/loopy](https://github.com/ncase/loopy)** - A tool for thinking in systems (today)
 - **[streamlit/streamlit](https://github.com/streamlit/streamlit)** - Streamlit — A faster way to build and share data apps. (3 weeks ago)
 - **[quiltdata/quilt](https://github.com/quiltdata/quilt)** - Quilt is a data mesh for connecting people with actionable data (3 weeks ago)
 - **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** - 📂 Web File Browser (1 month ago)
 - **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** - Omnivore is a complete, open source read-it-later solution for people who like reading. (1 month ago)
-- **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Sub-second search &amp; analytics engine on cloud storage (1 month ago)
