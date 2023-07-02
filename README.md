@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[ncase/loopy](https://github.com/ncase/loopy)** - A tool for thinking in systems (3 days ago)
+- **[alswl/excalidraw-collaboration](https://github.com/alswl/excalidraw-collaboration)** - excalidraw with collaboration feature, self-hosting, and only one-click deploy (1 day ago)
+- **[ncase/loopy](https://github.com/ncase/loopy)** - A tool for thinking in systems (4 days ago)
 - **[streamlit/streamlit](https://github.com/streamlit/streamlit)** - Streamlit — A faster way to build and share data apps. (3 weeks ago)
 - **[quiltdata/quilt](https://github.com/quiltdata/quilt)** - Quilt is a data mesh for connecting people with actionable data (1 month ago)
 - **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** - 📂 Web File Browser (1 month ago)
-- **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** - Omnivore is a complete, open source read-it-later solution for people who like reading. (1 month ago)
