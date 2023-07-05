@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[alswl/excalidraw-collaboration](https://github.com/alswl/excalidraw-collaboration)** - excalidraw with collaboration feature, self-hosting, and only one-click deploy (3 days ago)
-- **[ncase/loopy](https://github.com/ncase/loopy)** - A tool for thinking in systems (6 days ago)
-- **[streamlit/streamlit](https://github.com/streamlit/streamlit)** - Streamlit — A faster way to build and share data apps. (4 weeks ago)
+- **[alswl/excalidraw-collaboration](https://github.com/alswl/excalidraw-collaboration)** - excalidraw with collaboration feature, self-hosting, and only one-click deploy (4 days ago)
+- **[ncase/loopy](https://github.com/ncase/loopy)** - A tool for thinking in systems (1 week ago)
+- **[streamlit/streamlit](https://github.com/streamlit/streamlit)** - Streamlit — A faster way to build and share data apps. (1 month ago)
 - **[quiltdata/quilt](https://github.com/quiltdata/quilt)** - Quilt is a data mesh for connecting people with actionable data (1 month ago)
 - **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** - 📂 Web File Browser (1 month ago)
