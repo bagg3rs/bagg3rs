@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
+- **[TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template)** - A template for defining a Team API - as explained in the Team Topologies book (today)
 - **[opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs)** - 📙 Awesome Data Catalogs and Observability Platforms.  (2 days ago)
 - **[alswl/excalidraw-collaboration](https://github.com/alswl/excalidraw-collaboration)** - excalidraw with collaboration feature, self-hosting, and only one-click deploy (6 days ago)
 - **[ncase/loopy](https://github.com/ncase/loopy)** - A tool for thinking in systems (1 week ago)
 - **[streamlit/streamlit](https://github.com/streamlit/streamlit)** - Streamlit — A faster way to build and share data apps. (1 month ago)
-- **[quiltdata/quilt](https://github.com/quiltdata/quilt)** - Quilt is a data mesh for connecting people with actionable data (1 month ago)
