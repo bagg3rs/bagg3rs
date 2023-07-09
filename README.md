@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (2 weeks ago)
-- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (4 weeks ago)
+- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 month ago)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (2 months ago)
 - [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (3 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (4 months ago)
@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template)** - A template for defining a Team API - as explained in the Team Topologies book (1 day ago)
-- **[opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs)** - 📙 Awesome Data Catalogs and Observability Platforms.  (3 days ago)
+- **[TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template)** - A template for defining a Team API - as explained in the Team Topologies book (2 days ago)
+- **[opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs)** - 📙 Awesome Data Catalogs and Observability Platforms.  (4 days ago)
 - **[alswl/excalidraw-collaboration](https://github.com/alswl/excalidraw-collaboration)** - excalidraw with collaboration feature, self-hosting, and only one-click deploy (1 week ago)
 - **[ncase/loopy](https://github.com/ncase/loopy)** - A tool for thinking in systems (1 week ago)
 - **[streamlit/streamlit](https://github.com/streamlit/streamlit)** - Streamlit — A faster way to build and share data apps. (1 month ago)
