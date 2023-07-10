@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[raphamorim/rio](https://github.com/raphamorim/rio)** - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. (today)
-- **[TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template)** - A template for defining a Team API - as explained in the Team Topologies book (2 days ago)
-- **[opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs)** - 📙 Awesome Data Catalogs and Observability Platforms.  (4 days ago)
+- **[autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs)** - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry. (1 day ago)
+- **[raphamorim/rio](https://github.com/raphamorim/rio)** - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. (1 day ago)
+- **[TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template)** - A template for defining a Team API - as explained in the Team Topologies book (3 days ago)
+- **[opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs)** - 📙 Awesome Data Catalogs and Observability Platforms.  (5 days ago)
 - **[alswl/excalidraw-collaboration](https://github.com/alswl/excalidraw-collaboration)** - excalidraw with collaboration feature, self-hosting, and only one-click deploy (1 week ago)
-- **[ncase/loopy](https://github.com/ncase/loopy)** - A tool for thinking in systems (1 week ago)
