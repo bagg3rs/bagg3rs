@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (2 weeks ago)
+- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (3 weeks ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 month ago)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (2 months ago)
 - [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (3 months ago)
@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs)** - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry. (1 day ago)
-- **[raphamorim/rio](https://github.com/raphamorim/rio)** - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. (1 day ago)
-- **[TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template)** - A template for defining a Team API - as explained in the Team Topologies book (3 days ago)
-- **[opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs)** - 📙 Awesome Data Catalogs and Observability Platforms.  (5 days ago)
+- **[autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs)** - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry. (2 days ago)
+- **[raphamorim/rio](https://github.com/raphamorim/rio)** - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. (2 days ago)
+- **[TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template)** - A template for defining a Team API - as explained in the Team Topologies book (4 days ago)
+- **[opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs)** - 📙 Awesome Data Catalogs and Observability Platforms.  (6 days ago)
 - **[alswl/excalidraw-collaboration](https://github.com/alswl/excalidraw-collaboration)** - excalidraw with collaboration feature, self-hosting, and only one-click deploy (1 week ago)
