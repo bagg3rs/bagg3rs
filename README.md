@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[StanGirard/quivr](https://github.com/StanGirard/quivr)** - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) &amp; Embeddings 🧠  (1 day ago)
-- **[autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs)** - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry. (5 days ago)
-- **[raphamorim/rio](https://github.com/raphamorim/rio)** - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. (5 days ago)
+- **[StanGirard/quivr](https://github.com/StanGirard/quivr)** - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) &amp; Embeddings 🧠  (2 days ago)
+- **[autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs)** - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry. (6 days ago)
+- **[raphamorim/rio](https://github.com/raphamorim/rio)** - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. (6 days ago)
 - **[TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template)** - A template for defining a Team API - as explained in the Team Topologies book (1 week ago)
 - **[opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs)** - 📙 Awesome Data Catalogs and Observability Platforms.  (1 week ago)
