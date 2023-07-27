@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[ljacobsson/samp-cli](https://github.com/ljacobsson/samp-cli)** - CLI tool that offers advanced productivity and debugging features to AWS SAM users (1 day ago)
-- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** - Specify what you want it to build, the AI asks for clarification, and then builds it. (3 days ago)
-- **[github/issue-metrics](https://github.com/github/issue-metrics)** - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (6 days ago)
-- **[StanGirard/quivr](https://github.com/StanGirard/quivr)** - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) &amp; Embeddings 🧠  (1 week ago)
+- **[ljacobsson/samp-cli](https://github.com/ljacobsson/samp-cli)** - CLI tool that offers advanced productivity and debugging features to AWS SAM users (2 days ago)
+- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** - Specify what you want it to build, the AI asks for clarification, and then builds it. (4 days ago)
+- **[github/issue-metrics](https://github.com/github/issue-metrics)** - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (1 week ago)
+- **[StanGirard/quivr](https://github.com/StanGirard/quivr)** - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) &amp; Embeddings 🧠  (2 weeks ago)
 - **[autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs)** - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry. (2 weeks ago)
