@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** - 2D raster &amp; vector editor that melds traditional layers &amp; tools with a modern node-based, fully non-destructive procedural workflow. (1 day ago)
-- **[juliangarnier/anime](https://github.com/juliangarnier/anime)** - JavaScript animation engine (2 days ago)
-- **[ljacobsson/samp-cli](https://github.com/ljacobsson/samp-cli)** - CLI tool that offers advanced productivity and debugging features to AWS SAM users (4 days ago)
-- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** - Specify what you want it to build, the AI asks for clarification, and then builds it. (6 days ago)
+- **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** - 2D raster &amp; vector editor that melds traditional layers &amp; tools with a modern node-based, fully non-destructive procedural workflow. (2 days ago)
+- **[juliangarnier/anime](https://github.com/juliangarnier/anime)** - JavaScript animation engine (3 days ago)
+- **[ljacobsson/samp-cli](https://github.com/ljacobsson/samp-cli)** - CLI tool that offers advanced productivity and debugging features to AWS SAM users (5 days ago)
+- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** - Specify what you want it to build, the AI asks for clarification, and then builds it. (1 week ago)
 - **[github/issue-metrics](https://github.com/github/issue-metrics)** - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (1 week ago)
