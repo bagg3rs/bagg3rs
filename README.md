@@ -15,7 +15,7 @@
 
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (1 month ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 month ago)
-- [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (2 months ago)
+- [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (3 months ago)
 - [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (4 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (5 months ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (5 months ago)
@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** - 2D raster &amp; vector editor that melds traditional layers &amp; tools with a modern node-based, fully non-destructive procedural workflow. (2 days ago)
-- **[juliangarnier/anime](https://github.com/juliangarnier/anime)** - JavaScript animation engine (3 days ago)
-- **[ljacobsson/samp-cli](https://github.com/ljacobsson/samp-cli)** - CLI tool that offers advanced productivity and debugging features to AWS SAM users (5 days ago)
+- **[bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)** - A checklist of anyone practicing Site Reliability Engineering (1 day ago)
+- **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** - 2D raster &amp; vector editor that melds traditional layers &amp; tools with a modern node-based, fully non-destructive procedural workflow. (3 days ago)
+- **[juliangarnier/anime](https://github.com/juliangarnier/anime)** - JavaScript animation engine (4 days ago)
+- **[ljacobsson/samp-cli](https://github.com/ljacobsson/samp-cli)** - CLI tool that offers advanced productivity and debugging features to AWS SAM users (6 days ago)
 - **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** - Specify what you want it to build, the AI asks for clarification, and then builds it. (1 week ago)
-- **[github/issue-metrics](https://github.com/github/issue-metrics)** - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (1 week ago)
