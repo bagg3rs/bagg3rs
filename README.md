@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) -  (2 days ago)
+- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) -  (3 days ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (1 month ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 month ago)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (3 months ago)
@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
-- **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** (3 days ago)
-- **[co-cddo/data-catalogue-schemas](https://github.com/co-cddo/data-catalogue-schemas)** (4 days ago)
-- **[bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)** - A checklist of anyone practicing Site Reliability Engineering (5 days ago)
+- **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** (4 days ago)
+- **[co-cddo/data-catalogue-schemas](https://github.com/co-cddo/data-catalogue-schemas)** (5 days ago)
+- **[bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)** - A checklist of anyone practicing Site Reliability Engineering (6 days ago)
 - **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** - 2D raster &amp; vector editor that melds traditional layers &amp; tools with a modern node-based, fully non-destructive procedural workflow. (1 week ago)
 - **[juliangarnier/anime](https://github.com/juliangarnier/anime)** - JavaScript animation engine (1 week ago)
