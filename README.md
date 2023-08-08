@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) -  (5 days ago)
+- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) -  (6 days ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (1 month ago)
-- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 month ago)
+- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (2 months ago)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (3 months ago)
 - [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (4 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (5 months ago)
@@ -25,7 +25,7 @@
 #### ⭐ Recent Stars
 
 
-- **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** (6 days ago)
+- **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** (1 week ago)
 - **[co-cddo/data-catalogue-schemas](https://github.com/co-cddo/data-catalogue-schemas)** (1 week ago)
 - **[bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)** - A checklist of anyone practicing Site Reliability Engineering (1 week ago)
 - **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** - 2D raster &amp; vector editor that melds traditional layers &amp; tools with a modern node-based, fully non-destructive procedural workflow. (1 week ago)
