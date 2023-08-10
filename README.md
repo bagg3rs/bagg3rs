@@ -29,4 +29,4 @@
 - **[co-cddo/data-catalogue-schemas](https://github.com/co-cddo/data-catalogue-schemas)** (1 week ago)
 - **[bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)** - A checklist of anyone practicing Site Reliability Engineering (1 week ago)
 - **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** - 2D raster &amp; vector editor that melds traditional layers &amp; tools with a modern node-based, fully non-destructive procedural workflow. (1 week ago)
-- **[juliangarnier/anime](https://github.com/juliangarnier/anime)** - JavaScript animation engine (1 week ago)
+- **[juliangarnier/anime](https://github.com/juliangarnier/anime)** - JavaScript animation engine (2 weeks ago)
