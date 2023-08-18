@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
+- **[slok/sloth](https://github.com/slok/sloth)** - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (today)
 - **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** - Team-API using Swagger and GitHub pages (2 weeks ago)
 - **[co-cddo/data-catalogue-schemas](https://github.com/co-cddo/data-catalogue-schemas)** (2 weeks ago)
 - **[bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)** - A checklist of anyone practicing Site Reliability Engineering (2 weeks ago)
 - **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** - 2D raster &amp; vector editor that melds traditional layers &amp; tools with a modern node-based, fully non-destructive procedural workflow. (3 weeks ago)
-- **[juliangarnier/anime](https://github.com/juliangarnier/anime)** - JavaScript animation engine (3 weeks ago)
