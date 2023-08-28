@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (6 days ago)
+- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (1 week ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 week ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (2 weeks ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (2 months ago)
@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
+- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** - A tool to animate Excalidraw drawings (1 day ago)
 - **[slok/sloth](https://github.com/slok/sloth)** - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (1 week ago)
 - **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** - Team-API using Swagger and GitHub pages (3 weeks ago)
-- **[co-cddo/data-catalogue-schemas](https://github.com/co-cddo/data-catalogue-schemas)** (3 weeks ago)
+- **[co-cddo/data-catalogue-schemas](https://github.com/co-cddo/data-catalogue-schemas)** (4 weeks ago)
 - **[bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)** - A checklist of anyone practicing Site Reliability Engineering (4 weeks ago)
-- **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** - 2D raster &amp; vector editor that melds traditional layers &amp; tools with a modern node-based, fully non-destructive procedural workflow. (1 month ago)
