@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
-- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** - A tool to animate Excalidraw drawings (1 day ago)
+- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** - A tool to animate Excalidraw drawings (2 days ago)
 - **[slok/sloth](https://github.com/slok/sloth)** - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (1 week ago)
-- **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** - Team-API using Swagger and GitHub pages (3 weeks ago)
+- **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** - Team-API using Swagger and GitHub pages (4 weeks ago)
 - **[co-cddo/data-catalogue-schemas](https://github.com/co-cddo/data-catalogue-schemas)** (4 weeks ago)
-- **[bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)** - A checklist of anyone practicing Site Reliability Engineering (4 weeks ago)
+- **[bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)** - A checklist of anyone practicing Site Reliability Engineering (1 month ago)
