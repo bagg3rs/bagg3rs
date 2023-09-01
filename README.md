@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
-- **[opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)** - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (today)
-- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** - A tool to animate Excalidraw drawings (4 days ago)
-- **[slok/sloth](https://github.com/slok/sloth)** - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (1 week ago)
+- **[opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)** - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 day ago)
+- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** - A tool to animate Excalidraw drawings (5 days ago)
+- **[slok/sloth](https://github.com/slok/sloth)** - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (2 weeks ago)
 - **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** - Team-API using Swagger and GitHub pages (1 month ago)
 - **[co-cddo/data-catalogue-schemas](https://github.com/co-cddo/data-catalogue-schemas)** (1 month ago)
