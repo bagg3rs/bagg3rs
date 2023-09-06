@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
-- **[flarum/flarum](https://github.com/flarum/flarum)** - Simple forum software for building great communities. (2 days ago)
-- **[opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)** - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (5 days ago)
+- **[flarum/flarum](https://github.com/flarum/flarum)** - Simple forum software for building great communities. (3 days ago)
+- **[opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)** - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (6 days ago)
 - **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** - A tool to animate Excalidraw drawings (1 week ago)
 - **[slok/sloth](https://github.com/slok/sloth)** - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (2 weeks ago)
 - **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** - Team-API using Swagger and GitHub pages (1 month ago)
