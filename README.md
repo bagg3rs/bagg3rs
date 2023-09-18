@@ -5,11 +5,11 @@
 🏢 I work [@Ministry of Justice](https://github.com/ministryofjustice) as a Lead Technical Architect on the Data Platform
 
 #### 👨‍💻 Repositories I created recently
+- **[bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook)** - Used to test and collect all things github
 - **[bagg3rs/team-api](https://github.com/bagg3rs/team-api)** - Team-API using Swagger and GitHub pages
 - **[bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks)** - Trying out GitHub Blocks
 - **[bagg3rs/github-visualisation](https://github.com/bagg3rs/github-visualisation)** - Used to create a visualisation of commits from GitHub to repositories
 - **[bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code)** - Diagrams as Code repository
-- **[bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com)** - Jekyll and GitHub Actions deploy this to the internets 🌏
 
 #### 👷 Check out what I'm currently working on
 
