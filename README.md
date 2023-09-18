@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
+- **[damonsk/vscode-wardley-maps](https://github.com/damonsk/vscode-wardley-maps)** - A Wardley Maps for Visual Studio Code extension supporting rendering and editing maps-as-code. (today)
 - **[Green-Software-Foundation/real-time-cloud](https://github.com/Green-Software-Foundation/real-time-cloud)** (5 days ago)
 - **[flarum/flarum](https://github.com/flarum/flarum)** - Simple forum software for building great communities. (2 weeks ago)
 - **[opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)** - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 weeks ago)
 - **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** - A tool to animate Excalidraw drawings (3 weeks ago)
-- **[slok/sloth](https://github.com/slok/sloth)** - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (1 month ago)
