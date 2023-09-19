@@ -13,6 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (today)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (4 weeks ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 month ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (1 month ago)
@@ -25,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
+- **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (today)
 - **[damonsk/vscode-wardley-maps](https://github.com/damonsk/vscode-wardley-maps)** - A Wardley Maps for Visual Studio Code extension supporting rendering and editing maps-as-code. (1 day ago)
 - **[Green-Software-Foundation/real-time-cloud](https://github.com/Green-Software-Foundation/real-time-cloud)** (6 days ago)
 - **[flarum/flarum](https://github.com/flarum/flarum)** - Simple forum software for building great communities. (2 weeks ago)
 - **[opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)** - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 weeks ago)
-- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** - A tool to animate Excalidraw drawings (3 weeks ago)
