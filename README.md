@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (1 day ago)
+- [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (today)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (1 month ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 month ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (1 month ago)
