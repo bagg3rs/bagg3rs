@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (2 days ago)
+- [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (3 days ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (1 month ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 month ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (1 month ago)
@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[WarrenWeckesser/numpngw](https://github.com/WarrenWeckesser/numpngw)** - Functions that create PNG and animated PNG files from numpy arrays. (3 days ago)
-- **[orhun/menyoki](https://github.com/orhun/menyoki)** - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️ (3 days ago)
-- **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (3 days ago)
-- **[damonsk/vscode-wardley-maps](https://github.com/damonsk/vscode-wardley-maps)** - A Wardley Maps for Visual Studio Code extension supporting rendering and editing maps-as-code. (4 days ago)
+- **[WarrenWeckesser/numpngw](https://github.com/WarrenWeckesser/numpngw)** - Functions that create PNG and animated PNG files from numpy arrays. (4 days ago)
+- **[orhun/menyoki](https://github.com/orhun/menyoki)** - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️ (4 days ago)
+- **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (4 days ago)
+- **[damonsk/vscode-wardley-maps](https://github.com/damonsk/vscode-wardley-maps)** - A Wardley Maps for Visual Studio Code extension supporting rendering and editing maps-as-code. (5 days ago)
 - **[Green-Software-Foundation/real-time-cloud](https://github.com/Green-Software-Foundation/real-time-cloud)** (1 week ago)
