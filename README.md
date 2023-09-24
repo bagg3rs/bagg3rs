@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
+- **[github/innovationgraph](https://github.com/github/innovationgraph)** - GitHub Innovation Graph (today)
 - **[WarrenWeckesser/numpngw](https://github.com/WarrenWeckesser/numpngw)** - Functions that create PNG and animated PNG files from numpy arrays. (5 days ago)
 - **[orhun/menyoki](https://github.com/orhun/menyoki)** - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️ (5 days ago)
 - **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (5 days ago)
 - **[damonsk/vscode-wardley-maps](https://github.com/damonsk/vscode-wardley-maps)** - A Wardley Maps for Visual Studio Code extension supporting rendering and editing maps-as-code. (6 days ago)
-- **[Green-Software-Foundation/real-time-cloud](https://github.com/Green-Software-Foundation/real-time-cloud)** (1 week ago)
