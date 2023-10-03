@@ -27,7 +27,7 @@
 
 
 - **[github/innovationgraph](https://github.com/github/innovationgraph)** - GitHub Innovation Graph (1 week ago)
-- **[WarrenWeckesser/numpngw](https://github.com/WarrenWeckesser/numpngw)** - Functions that create PNG and animated PNG files from numpy arrays. (1 week ago)
-- **[orhun/menyoki](https://github.com/orhun/menyoki)** - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️ (1 week ago)
-- **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (1 week ago)
+- **[WarrenWeckesser/numpngw](https://github.com/WarrenWeckesser/numpngw)** - Functions that create PNG and animated PNG files from numpy arrays. (2 weeks ago)
+- **[orhun/menyoki](https://github.com/orhun/menyoki)** - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️ (2 weeks ago)
+- **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (2 weeks ago)
 - **[damonsk/vscode-wardley-maps](https://github.com/damonsk/vscode-wardley-maps)** - A Wardley Maps for Visual Studio Code extension supporting rendering and editing maps-as-code. (2 weeks ago)
