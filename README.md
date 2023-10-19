@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
+- **[0atman/noboilerplate](https://github.com/0atman/noboilerplate)** - Code for my talks on the No Boilerplate channel (today)
+- **[quadratichq/quadratic](https://github.com/quadratichq/quadratic)** - Quadratic | Data Science Spreadsheet with Python &amp; SQL (today)
 - **[weaveworks/grafanalib](https://github.com/weaveworks/grafanalib)** - Python library for building Grafana dashboards (4 days ago)
 - **[RamiKrispin/shinylive-r](https://github.com/RamiKrispin/shinylive-r)** - A guide for deploying Shinylive R application into Github Pages (6 days ago)
 - **[excalidraw/mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw)** - Generate Excalidraw diagrams from Mermaid (2 weeks ago)
-- **[github/innovationgraph](https://github.com/github/innovationgraph)** - GitHub Innovation Graph (3 weeks ago)
-- **[WarrenWeckesser/numpngw](https://github.com/WarrenWeckesser/numpngw)** - Functions that create PNG and animated PNG files from numpy arrays. (1 month ago)
