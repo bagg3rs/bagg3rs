@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[0atman/noboilerplate](https://github.com/0atman/noboilerplate)** - Code for my talks on the No Boilerplate channel (2 days ago)
-- **[quadratichq/quadratic](https://github.com/quadratichq/quadratic)** - Quadratic | Data Science Spreadsheet with Python &amp; SQL (2 days ago)
-- **[weaveworks/grafanalib](https://github.com/weaveworks/grafanalib)** - Python library for building Grafana dashboards (6 days ago)
+- **[0atman/noboilerplate](https://github.com/0atman/noboilerplate)** - Code for my talks on the No Boilerplate channel (3 days ago)
+- **[quadratichq/quadratic](https://github.com/quadratichq/quadratic)** - Quadratic | Data Science Spreadsheet with Python &amp; SQL (3 days ago)
+- **[weaveworks/grafanalib](https://github.com/weaveworks/grafanalib)** - Python library for building Grafana dashboards (1 week ago)
 - **[RamiKrispin/shinylive-r](https://github.com/RamiKrispin/shinylive-r)** - A guide for deploying Shinylive R application into Github Pages (1 week ago)
 - **[excalidraw/mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw)** - Generate Excalidraw diagrams from Mermaid (2 weeks ago)
