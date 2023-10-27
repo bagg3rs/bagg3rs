@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (4 days ago)
+- **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 - **[0atman/noboilerplate](https://github.com/0atman/noboilerplate)** - Code for my talks on the No Boilerplate channel (1 week ago)
 - **[quadratichq/quadratic](https://github.com/quadratichq/quadratic)** - Quadratic | Data Science Spreadsheet with Python &amp; SQL (1 week ago)
 - **[weaveworks/grafanalib](https://github.com/weaveworks/grafanalib)** - Python library for building Grafana dashboards (1 week ago)
-- **[RamiKrispin/shinylive-r](https://github.com/RamiKrispin/shinylive-r)** - A guide for deploying Shinylive R application into Github Pages (1 week ago)
+- **[RamiKrispin/shinylive-r](https://github.com/RamiKrispin/shinylive-r)** - A guide for deploying Shinylive R application into Github Pages (2 weeks ago)
