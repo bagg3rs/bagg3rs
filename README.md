@@ -26,7 +26,7 @@
 #### ⭐ Recent Stars
 
 
-- **[d3/d3](https://github.com/d3/d3)** - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: (4 days ago)
+- **[d3/d3](https://github.com/d3/d3)** - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: (5 days ago)
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 - **[0atman/noboilerplate](https://github.com/0atman/noboilerplate)** - Code for my talks on the No Boilerplate channel (2 weeks ago)
 - **[quadratichq/quadratic](https://github.com/quadratichq/quadratic)** - Quadratic | Data Science Spreadsheet with Python &amp; SQL (2 weeks ago)
