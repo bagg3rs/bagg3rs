@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[awslabs/aws-data-solutions-framework](https://github.com/awslabs/aws-data-solutions-framework)** - An open-source framework that simplifies implementation of data solutions.  (2 days ago)
-- **[awslabs/data-on-eks](https://github.com/awslabs/data-on-eks)** - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS (3 days ago)
+- **[awslabs/aws-data-solutions-framework](https://github.com/awslabs/aws-data-solutions-framework)** - An open-source framework that simplifies implementation of data solutions.  (3 days ago)
+- **[awslabs/data-on-eks](https://github.com/awslabs/data-on-eks)** - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS (4 days ago)
 - **[d3/d3](https://github.com/d3/d3)** - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: (1 week ago)
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 - **[0atman/noboilerplate](https://github.com/0atman/noboilerplate)** - Code for my talks on the No Boilerplate channel (3 weeks ago)
