@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
+- **[aws-samples/aws-analytics-reference-architecture](https://github.com/aws-samples/aws-analytics-reference-architecture)** (today)
 - **[tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui)** - Draw a mockup and generate html for it (3 days ago)
 - **[awslabs/data-solutions-framework-on-aws](https://github.com/awslabs/data-solutions-framework-on-aws)** - An open-source framework that simplifies implementation of data solutions.  (1 week ago)
 - **[awslabs/data-on-eks](https://github.com/awslabs/data-on-eks)** - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS (2 weeks ago)
 - **[d3/d3](https://github.com/d3/d3)** - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: (2 weeks ago)
-- **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (4 weeks ago)
