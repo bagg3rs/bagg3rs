@@ -31,4 +31,4 @@
 - **[tldraw/make-real](https://github.com/tldraw/make-real)** - Draw a ui and make it real (1 week ago)
 - **[awslabs/data-solutions-framework-on-aws](https://github.com/awslabs/data-solutions-framework-on-aws)** - An open-source framework that simplifies implementation of data solutions.  (3 weeks ago)
 - **[awslabs/data-on-eks](https://github.com/awslabs/data-on-eks)** - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS (3 weeks ago)
-- **[d3/d3](https://github.com/d3/d3)** - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: (3 weeks ago)
+- **[d3/d3](https://github.com/d3/d3)** - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: (4 weeks ago)
