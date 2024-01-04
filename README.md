@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
-- **[bahuma20/firefly-iii-ai-categorize](https://github.com/bahuma20/firefly-iii-ai-categorize)** - Automatically categorize your expenses by using OpenAI (1 day ago)
-- **[acaudwell/Gource](https://github.com/acaudwell/Gource)** - software version control visualization (5 days ago)
+- **[bahuma20/firefly-iii-ai-categorize](https://github.com/bahuma20/firefly-iii-ai-categorize)** - Automatically categorize your expenses by using OpenAI (2 days ago)
+- **[acaudwell/Gource](https://github.com/acaudwell/Gource)** - software version control visualization (6 days ago)
 - **[aws-samples/aws-analytics-reference-architecture](https://github.com/aws-samples/aws-analytics-reference-architecture)** (1 month ago)
 - **[tldraw/make-real](https://github.com/tldraw/make-real)** - Draw a ui and make it real (1 month ago)
 - **[awslabs/data-solutions-framework-on-aws](https://github.com/awslabs/data-solutions-framework-on-aws)** - An open-source framework that simplifies implementation of data solutions.  (1 month ago)
