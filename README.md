@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code) - This repository contains the code to manage my own DNS records on CloudFlare (1 week ago)
+- [bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code) - This repository contains the code to manage my own DNS records on CloudFlare (2 weeks ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (3 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (3 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (3 months ago)
@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
-- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** - ⚡ Building applications with LLMs through composability ⚡ (today)
-- **[bahuma20/firefly-iii-ai-categorize](https://github.com/bahuma20/firefly-iii-ai-categorize)** - Automatically categorize your expenses by using OpenAI (2 days ago)
-- **[acaudwell/Gource](https://github.com/acaudwell/Gource)** - software version control visualization (6 days ago)
+- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** - ⚡ Building applications with LLMs through composability ⚡ (1 day ago)
+- **[bahuma20/firefly-iii-ai-categorize](https://github.com/bahuma20/firefly-iii-ai-categorize)** - Automatically categorize your expenses by using OpenAI (3 days ago)
+- **[acaudwell/Gource](https://github.com/acaudwell/Gource)** - software version control visualization (1 week ago)
 - **[aws-samples/aws-analytics-reference-architecture](https://github.com/aws-samples/aws-analytics-reference-architecture)** (1 month ago)
 - **[tldraw/make-real](https://github.com/tldraw/make-real)** - Draw a ui and make it real (1 month ago)
