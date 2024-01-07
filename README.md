@@ -18,7 +18,7 @@
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (3 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (3 months ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (4 months ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (4 months ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (5 months ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (6 months ago)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (8 months ago)
 - [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (9 months ago)
@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
-- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** - ⚡ Building applications with LLMs through composability ⚡ (2 days ago)
-- **[bahuma20/firefly-iii-ai-categorize](https://github.com/bahuma20/firefly-iii-ai-categorize)** - Automatically categorize your expenses by using OpenAI (4 days ago)
+- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** - ⚡ Building applications with LLMs through composability ⚡ (3 days ago)
+- **[bahuma20/firefly-iii-ai-categorize](https://github.com/bahuma20/firefly-iii-ai-categorize)** - Automatically categorize your expenses by using OpenAI (5 days ago)
 - **[acaudwell/Gource](https://github.com/acaudwell/Gource)** - software version control visualization (1 week ago)
 - **[aws-samples/aws-analytics-reference-architecture](https://github.com/aws-samples/aws-analytics-reference-architecture)** (1 month ago)
 - **[tldraw/make-real](https://github.com/tldraw/make-real)** - Draw a ui and make it real (1 month ago)
