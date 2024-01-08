@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
-- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** - ⚡ Building applications with LLMs through composability ⚡ (3 days ago)
-- **[bahuma20/firefly-iii-ai-categorize](https://github.com/bahuma20/firefly-iii-ai-categorize)** - Automatically categorize your expenses by using OpenAI (5 days ago)
+- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** - ⚡ Building applications with LLMs through composability ⚡ (4 days ago)
+- **[bahuma20/firefly-iii-ai-categorize](https://github.com/bahuma20/firefly-iii-ai-categorize)** - Automatically categorize your expenses by using OpenAI (6 days ago)
 - **[acaudwell/Gource](https://github.com/acaudwell/Gource)** - software version control visualization (1 week ago)
 - **[aws-samples/aws-analytics-reference-architecture](https://github.com/aws-samples/aws-analytics-reference-architecture)** (1 month ago)
 - **[tldraw/make-real](https://github.com/tldraw/make-real)** - Draw a ui and make it real (1 month ago)
