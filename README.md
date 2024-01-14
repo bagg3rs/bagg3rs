@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
-- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (4 days ago)
-- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (5 days ago)
+- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (5 days ago)
+- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (6 days ago)
 - **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** - ⚡ Building applications with LLMs through composability ⚡ (1 week ago)
 - **[bahuma20/firefly-iii-ai-categorize](https://github.com/bahuma20/firefly-iii-ai-categorize)** - Automatically categorize your expenses by using OpenAI (1 week ago)
 - **[acaudwell/Gource](https://github.com/acaudwell/Gource)** - software version control visualization (2 weeks ago)
