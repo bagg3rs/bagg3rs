@@ -19,7 +19,7 @@
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (3 months ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (4 months ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (5 months ago)
-- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (6 months ago)
+- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (7 months ago)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (8 months ago)
 - [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (10 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (10 months ago)
@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
-- **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (1 day ago)
-- **[ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 day ago)
-- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (6 days ago)
+- **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (2 days ago)
+- **[ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 days ago)
+- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 week ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (1 week ago)
 - **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** - ⚡ Building applications with LLMs through composability ⚡ (1 week ago)
