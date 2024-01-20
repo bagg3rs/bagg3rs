@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
-- **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (5 days ago)
-- **[ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (5 days ago)
+- **[boyney123/cloudcatalog](https://github.com/boyney123/cloudcatalog)** - Discover, Explore and Document your AWS architectures powered by Markdown. (1 day ago)
+- **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (6 days ago)
+- **[ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (6 days ago)
 - **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 week ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (1 week ago)
-- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** - ⚡ Building applications with LLMs through composability ⚡ (2 weeks ago)
