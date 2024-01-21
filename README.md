@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code) - This repository contains the code to manage my own DNS records on CloudFlare (4 weeks ago)
+- [bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code) - This repository contains the code to manage my own DNS records on CloudFlare (1 month ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (3 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (3 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (4 months ago)
@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
-- **[boyney123/cloudcatalog](https://github.com/boyney123/cloudcatalog)** - Discover, Explore and Document your AWS architectures powered by Markdown. (1 day ago)
-- **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (6 days ago)
-- **[ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (6 days ago)
+- **[boyney123/cloudcatalog](https://github.com/boyney123/cloudcatalog)** - Discover, Explore and Document your AWS architectures powered by Markdown. (2 days ago)
+- **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (1 week ago)
+- **[ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 week ago)
 - **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 week ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (1 week ago)
