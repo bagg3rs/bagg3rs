@@ -27,7 +27,7 @@
 #### ⭐ Recent Stars
 
 
-- **[github/evergreen](https://github.com/github/evergreen)** - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (6 days ago)
+- **[github/evergreen](https://github.com/github/evergreen)** - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (1 week ago)
 - **[boyney123/cloudcatalog](https://github.com/boyney123/cloudcatalog)** - Discover, Explore and Document your AWS architectures powered by Markdown. (2 weeks ago)
 - **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (2 weeks ago)
 - **[ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 weeks ago)
