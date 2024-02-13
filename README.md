@@ -29,6 +29,6 @@
 
 - **[github/evergreen](https://github.com/github/evergreen)** - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (2 weeks ago)
 - **[boyney123/cloudcatalog](https://github.com/boyney123/cloudcatalog)** - Discover, Explore and Document your AWS architectures powered by Markdown. (3 weeks ago)
-- **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (4 weeks ago)
-- **[ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (4 weeks ago)
+- **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (1 month ago)
+- **[ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 month ago)
 - **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 month ago)
