@@ -21,7 +21,7 @@
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (7 months ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (8 months ago)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (10 months ago)
-- [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (11 months ago)
+- [bagg3rs/github-blocks](https://github.com/bagg3rs/github-blocks) - Trying out GitHub Blocks (1 year ago)
 
 #### ⭐ Recent Stars
 
