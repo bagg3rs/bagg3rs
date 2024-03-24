@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (5 days ago)
+- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (6 days ago)
 - [bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code) - This repository contains the code to manage my own DNS records on CloudFlare (3 months ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (5 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (6 months ago)
@@ -26,7 +26,7 @@
 #### ⭐ Recent Stars
 
 
-- **[paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar)** - A sleek and minimalist ePaper calendar using ESPHome. (1 day ago)
+- **[paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar)** - A sleek and minimalist ePaper calendar using ESPHome. (2 days ago)
 - **[argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)** - Swift native on-device speech recognition with Whisper for Apple Silicon (1 month ago)
 - **[github/evergreen](https://github.com/github/evergreen)** - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (1 month ago)
 - **[boyney123/cloudcatalog](https://github.com/boyney123/cloudcatalog)** - Discover, Explore and Document your AWS architectures powered by Markdown. (2 months ago)
