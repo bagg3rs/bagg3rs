@@ -20,13 +20,13 @@
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (7 months ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (7 months ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (9 months ago)
-- [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (10 months ago)
+- [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (11 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar)** - A sleek and minimalist ePaper calendar using ESPHome. (4 days ago)
+- **[paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar)** - A sleek and minimalist ePaper calendar using ESPHome. (5 days ago)
 - **[argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)** - Swift native on-device speech recognition with Whisper for Apple Silicon (1 month ago)
-- **[github/evergreen](https://github.com/github/evergreen)** - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (1 month ago)
+- **[github/evergreen](https://github.com/github/evergreen)** - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (2 months ago)
 - **[boyney123/cloudcatalog](https://github.com/boyney123/cloudcatalog)** - Discover, Explore and Document your AWS architectures powered by Markdown. (2 months ago)
 - **[Ant-Brain/EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net)** - OneShot Learning-based hotword detection. (2 months ago)
