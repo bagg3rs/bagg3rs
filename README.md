@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
-- **[winglang/wing](https://github.com/winglang/wing)** - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡  (today)
-- **[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)** - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models (1 day ago)
-- **[paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar)** - A sleek and minimalist ePaper calendar using ESPHome. (1 week ago)
+- **[winglang/wing](https://github.com/winglang/wing)** - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡  (1 day ago)
+- **[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)** - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models (2 days ago)
+- **[paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar)** - A sleek and minimalist ePaper calendar using ESPHome. (2 weeks ago)
 - **[argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)** - Swift native on-device speech recognition with Whisper for Apple Silicon (1 month ago)
 - **[github/evergreen](https://github.com/github/evergreen)** - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (2 months ago)
