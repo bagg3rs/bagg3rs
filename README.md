@@ -26,7 +26,7 @@
 
 
 - **[winglang/wing](https://github.com/winglang/wing)** - A TypeScript dialect for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡  (2 days ago)
-- **[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)** - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4. It solves 12.29% of bugs in the SWE-bench evaluation set (comparable to Devin) and take just 1.5 minutes to run (7x faster than Devin).  (3 days ago)
+- **[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)** - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (3 days ago)
 - **[paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar)** - A sleek and minimalist ePaper calendar using ESPHome. (2 weeks ago)
 - **[argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)** - Swift native on-device speech recognition with Whisper for Apple Silicon (1 month ago)
 - **[github/evergreen](https://github.com/github/evergreen)** - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (2 months ago)
