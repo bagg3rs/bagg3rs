@@ -18,15 +18,15 @@
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (6 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (6 months ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (7 months ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (7 months ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (8 months ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (9 months ago)
 - [bagg3rs/github-actions-sandbox](https://github.com/bagg3rs/github-actions-sandbox) -  (11 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[winglang/wing](https://github.com/winglang/wing)** - A TypeScript dialect for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡  (1 day ago)
-- **[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)** - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models (2 days ago)
+- **[winglang/wing](https://github.com/winglang/wing)** - A TypeScript dialect for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡  (2 days ago)
+- **[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)** - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4. It solves 12.29% of bugs in the SWE-bench evaluation set (comparable to Devin) and take just 1.5 minutes to run (7x faster than Devin).  (3 days ago)
 - **[paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar)** - A sleek and minimalist ePaper calendar using ESPHome. (2 weeks ago)
 - **[argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)** - Swift native on-device speech recognition with Whisper for Apple Silicon (1 month ago)
 - **[github/evergreen](https://github.com/github/evergreen)** - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (2 months ago)
