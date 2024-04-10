@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
-- **[philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner)** - Terraform module for scalable GitHub action runners on AWS (2 days ago)
-- **[huginn/huginn](https://github.com/huginn/huginn)** - Create agents that monitor and act on your behalf.  Your agents are standing by! (3 days ago)
-- **[winglang/wing](https://github.com/winglang/wing)** - A TypeScript dialect for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡  (5 days ago)
-- **[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)** - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (6 days ago)
+- **[philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner)** - Terraform module for scalable GitHub action runners on AWS (3 days ago)
+- **[huginn/huginn](https://github.com/huginn/huginn)** - Create agents that monitor and act on your behalf.  Your agents are standing by! (4 days ago)
+- **[winglang/wing](https://github.com/winglang/wing)** - A TypeScript dialect for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡  (6 days ago)
+- **[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)** - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (1 week ago)
 - **[paviro/ESPHome-ePaper-Calendar](https://github.com/paviro/ESPHome-ePaper-Calendar)** - A sleek and minimalist ePaper calendar using ESPHome. (2 weeks ago)
