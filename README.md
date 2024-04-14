@@ -25,7 +25,7 @@
 #### ⭐ Recent Stars
 
 
-- **[philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner)** - Terraform module for scalable GitHub action runners on AWS (6 days ago)
+- **[philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner)** - Terraform module for scalable GitHub action runners on AWS (1 week ago)
 - **[huginn/huginn](https://github.com/huginn/huginn)** - Create agents that monitor and act on your behalf.  Your agents are standing by! (1 week ago)
 - **[winglang/wing](https://github.com/winglang/wing)** - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (1 week ago)
 - **[princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)** - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (1 week ago)
