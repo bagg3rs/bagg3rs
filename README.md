@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
+- **[foambubble/foam](https://github.com/foambubble/foam)** - A personal knowledge management and sharing system for VSCode (today)
 - **[aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team)** - Open-source temporary elevated access solution for AWS IAM Identity Center. (2 days ago)
 - **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
 - **[iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)** - Bypass Paywalls web browser extension for Chrome and Firefox. (1 week ago)
 - **[philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner)** - Terraform module for scalable GitHub action runners on AWS (2 weeks ago)
-- **[huginn/huginn](https://github.com/huginn/huginn)** - Create agents that monitor and act on your behalf.  Your agents are standing by! (2 weeks ago)
