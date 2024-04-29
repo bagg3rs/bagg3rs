@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
-- **[open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)** - The OpenTelemetry website and documentation (today)
-- **[foambubble/foam](https://github.com/foambubble/foam)** - A personal knowledge management and sharing system for VSCode (3 days ago)
-- **[aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team)** - Open-source temporary elevated access solution for AWS IAM Identity Center. (5 days ago)
+- **[open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)** - The OpenTelemetry website and documentation (1 day ago)
+- **[foambubble/foam](https://github.com/foambubble/foam)** - A personal knowledge management and sharing system for VSCode (4 days ago)
+- **[aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team)** - Open-source temporary elevated access solution for AWS IAM Identity Center. (6 days ago)
 - **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
-- **[iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)** - Bypass Paywalls web browser extension for Chrome and Firefox. (1 week ago)
+- **[iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)** - Bypass Paywalls web browser extension for Chrome and Firefox. (2 weeks ago)
