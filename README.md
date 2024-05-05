@@ -25,7 +25,7 @@
 #### ⭐ Recent Stars
 
 
-- **[open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)** - The OpenTelemetry website and documentation (6 days ago)
+- **[open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)** - The OpenTelemetry website and documentation (1 week ago)
 - **[foambubble/foam](https://github.com/foambubble/foam)** - A personal knowledge management and sharing system for VSCode (1 week ago)
 - **[aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team)** - Open-source temporary elevated access solution for AWS IAM Identity Center. (1 week ago)
 - **[dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)** - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
