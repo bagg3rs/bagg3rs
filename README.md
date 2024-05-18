@@ -24,7 +24,7 @@
 #### ⭐ Recent Stars
 
 
-- **[facebook/folly](https://github.com/facebook/folly)** - An open-source C&#43;&#43; library developed and used at Facebook. (2 days ago)
+- **[facebook/folly](https://github.com/facebook/folly)** - An open-source C&#43;&#43; library developed and used at Facebook. (3 days ago)
 - **[your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain)** - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter! (1 week ago)
 - **[VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)** - Python scraper based on AI (1 week ago)
 - **[open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)** - The OpenTelemetry website and documentation (2 weeks ago)
