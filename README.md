@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
+- **[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)** - A massively parallel, high-level programming language (today)
+- **[aws-samples/service-catalog-engine-for-terraform-os](https://github.com/aws-samples/service-catalog-engine-for-terraform-os)** (today)
 - **[facebook/folly](https://github.com/facebook/folly)** - An open-source C&#43;&#43; library developed and used at Facebook. (4 days ago)
 - **[your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain)** - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter! (1 week ago)
 - **[VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)** - Python scraper based on AI (2 weeks ago)
-- **[open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)** - The OpenTelemetry website and documentation (3 weeks ago)
-- **[foambubble/foam](https://github.com/foambubble/foam)** - A personal knowledge management and sharing system for VSCode (3 weeks ago)
