@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[yarnpkg/berry](https://github.com/yarnpkg/berry)** - 📦🐈 Active development trunk for Yarn ⚒ (1 day ago)
-- **[wandb/openui](https://github.com/wandb/openui)** - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (1 day ago)
-- **[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)** - A massively parallel, high-level programming language (1 day ago)
-- **[aws-samples/service-catalog-engine-for-terraform-os](https://github.com/aws-samples/service-catalog-engine-for-terraform-os)** (1 day ago)
-- **[facebook/folly](https://github.com/facebook/folly)** - An open-source C&#43;&#43; library developed and used at Facebook. (5 days ago)
+- **[yarnpkg/berry](https://github.com/yarnpkg/berry)** - 📦🐈 Active development trunk for Yarn ⚒ (2 days ago)
+- **[wandb/openui](https://github.com/wandb/openui)** - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (2 days ago)
+- **[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)** - A massively parallel, high-level programming language (2 days ago)
+- **[aws-samples/service-catalog-engine-for-terraform-os](https://github.com/aws-samples/service-catalog-engine-for-terraform-os)** (2 days ago)
+- **[facebook/folly](https://github.com/facebook/folly)** - An open-source C&#43;&#43; library developed and used at Facebook. (6 days ago)
