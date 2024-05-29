@@ -28,4 +28,4 @@
 - **[wandb/openui](https://github.com/wandb/openui)** - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (1 week ago)
 - **[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)** - A massively parallel, high-level programming language (1 week ago)
 - **[aws-samples/service-catalog-engine-for-terraform-os](https://github.com/aws-samples/service-catalog-engine-for-terraform-os)** (1 week ago)
-- **[facebook/folly](https://github.com/facebook/folly)** - An open-source C&#43;&#43; library developed and used at Facebook. (1 week ago)
+- **[facebook/folly](https://github.com/facebook/folly)** - An open-source C&#43;&#43; library developed and used at Facebook. (2 weeks ago)
