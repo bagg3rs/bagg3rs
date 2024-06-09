@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (5 days ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (6 days ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (1 month ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (2 months ago)
 - [bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code) - This repository contains the code to manage my own DNS records on CloudFlare (5 months ago)
@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[yarnpkg/berry](https://github.com/yarnpkg/berry)** - 📦🐈 Active development trunk for Yarn ⚒ (2 weeks ago)
-- **[wandb/openui](https://github.com/wandb/openui)** - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (2 weeks ago)
-- **[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)** - A massively parallel, high-level programming language (2 weeks ago)
-- **[aws-samples/service-catalog-engine-for-terraform-os](https://github.com/aws-samples/service-catalog-engine-for-terraform-os)** (2 weeks ago)
-- **[facebook/folly](https://github.com/facebook/folly)** - An open-source C&#43;&#43; library developed and used at Facebook. (3 weeks ago)
+- **[metabase/metabase](https://github.com/metabase/metabase)** - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (1 day ago)
+- **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 day ago)
+- **[yarnpkg/berry](https://github.com/yarnpkg/berry)** - 📦🐈 Active development trunk for Yarn ⚒ (3 weeks ago)
+- **[wandb/openui](https://github.com/wandb/openui)** - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (3 weeks ago)
+- **[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)** - A massively parallel, high-level programming language (3 weeks ago)
