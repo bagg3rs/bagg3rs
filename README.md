@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[metabase/metabase](https://github.com/metabase/metabase)** - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (3 days ago)
-- **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (3 days ago)
+- **[slackapi/slack-github-action](https://github.com/slackapi/slack-github-action)** - Send data into Slack using this GitHub Action! (1 day ago)
+- **[metabase/metabase](https://github.com/metabase/metabase)** - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (4 days ago)
+- **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (4 days ago)
 - **[yarnpkg/berry](https://github.com/yarnpkg/berry)** - 📦🐈 Active development trunk for Yarn ⚒ (3 weeks ago)
 - **[wandb/openui](https://github.com/wandb/openui)** - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (3 weeks ago)
-- **[HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)** - A massively parallel, high-level programming language (3 weeks ago)
