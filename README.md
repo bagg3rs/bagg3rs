@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (2 weeks ago)
-- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (1 month ago)
+- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (2 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (3 months ago)
 - [bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code) - This repository contains the code to manage my own DNS records on CloudFlare (5 months ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (8 months ago)
@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[restatedev/restate](https://github.com/restatedev/restate)** - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (3 days ago)
-- **[slackapi/slack-github-action](https://github.com/slackapi/slack-github-action)** - Send data into Slack using this GitHub Action! (6 days ago)
+- **[restatedev/restate](https://github.com/restatedev/restate)** - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (4 days ago)
+- **[slackapi/slack-github-action](https://github.com/slackapi/slack-github-action)** - Send data into Slack using this GitHub Action! (1 week ago)
 - **[metabase/metabase](https://github.com/metabase/metabase)** - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (1 week ago)
 - **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 week ago)
-- **[yarnpkg/berry](https://github.com/yarnpkg/berry)** - 📦🐈 Active development trunk for Yarn ⚒ (4 weeks ago)
+- **[yarnpkg/berry](https://github.com/yarnpkg/berry)** - 📦🐈 Active development trunk for Yarn ⚒ (1 month ago)
