@@ -24,7 +24,7 @@
 #### ⭐ Recent Stars
 
 
-- **[restatedev/restate](https://github.com/restatedev/restate)** - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (5 days ago)
+- **[restatedev/restate](https://github.com/restatedev/restate)** - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (6 days ago)
 - **[slackapi/slack-github-action](https://github.com/slackapi/slack-github-action)** - Send data into Slack using this GitHub Action! (1 week ago)
 - **[metabase/metabase](https://github.com/metabase/metabase)** - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (1 week ago)
 - **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 week ago)
