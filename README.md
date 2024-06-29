@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
+- **[sourcehawk/aws-org-billing-dashboard](https://github.com/sourcehawk/aws-org-billing-dashboard)** - Dashboard and infrastructure for AWS organization cost and usage report (1 day ago)
 - **[restatedev/restate](https://github.com/restatedev/restate)** - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (2 weeks ago)
 - **[slackapi/slack-github-action](https://github.com/slackapi/slack-github-action)** - Send data into Slack using this GitHub Action! (2 weeks ago)
-- **[metabase/metabase](https://github.com/metabase/metabase)** - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (2 weeks ago)
-- **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 weeks ago)
-- **[yarnpkg/berry](https://github.com/yarnpkg/berry)** - 📦🐈 Active development trunk for Yarn ⚒ (1 month ago)
+- **[metabase/metabase](https://github.com/metabase/metabase)** - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (3 weeks ago)
+- **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (3 weeks ago)
