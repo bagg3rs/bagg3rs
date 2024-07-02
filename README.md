@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[y-scope/clp](https://github.com/y-scope/clp)** - Compressed Log Processor (CLP) is a free log management tool capable of compressing text logs and searching the compressed logs without decompression. (today)
-- **[sourcehawk/aws-org-billing-dashboard](https://github.com/sourcehawk/aws-org-billing-dashboard)** - Dashboard and infrastructure for AWS organization cost and usage report (3 days ago)
+- **[y-scope/clp](https://github.com/y-scope/clp)** - Compressed Log Processor (CLP) is a free log management tool capable of compressing text logs and searching the compressed logs without decompression. (1 day ago)
+- **[sourcehawk/aws-org-billing-dashboard](https://github.com/sourcehawk/aws-org-billing-dashboard)** - Dashboard and infrastructure for AWS organization cost and usage report (4 days ago)
 - **[restatedev/restate](https://github.com/restatedev/restate)** - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (2 weeks ago)
-- **[slackapi/slack-github-action](https://github.com/slackapi/slack-github-action)** - Send data into Slack using this GitHub Action! (2 weeks ago)
+- **[slackapi/slack-github-action](https://github.com/slackapi/slack-github-action)** - Send data into Slack using this GitHub Action! (3 weeks ago)
 - **[metabase/metabase](https://github.com/metabase/metabase)** - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (3 weeks ago)
