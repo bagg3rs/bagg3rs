@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[chrxh/alien](https://github.com/chrxh/alien)** - ALIEN is a CUDA-powered artificial life simulation program. (1 day ago)
-- **[boyney123/complexity-is-the-gotcha-of-event-driven-architecture](https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture)** - Repo that contains all my resources for my talk &#34;Complexity is the Gotcha of event-driven architecture&#34; (2 days ago)
+- **[aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code)** - Data Lake as Code, featuring ChEMBL and OpenTargets (1 day ago)
+- **[chrxh/alien](https://github.com/chrxh/alien)** - ALIEN is a CUDA-powered artificial life simulation program. (2 days ago)
+- **[boyney123/complexity-is-the-gotcha-of-event-driven-architecture](https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture)** - Repo that contains all my resources for my talk &#34;Complexity is the Gotcha of event-driven architecture&#34; (3 days ago)
 - **[y-scope/clp](https://github.com/y-scope/clp)** - Compressed Log Processor (CLP) is a free log management tool capable of compressing text logs and searching the compressed logs without decompression. (1 week ago)
 - **[sourcehawk/aws-org-billing-dashboard](https://github.com/sourcehawk/aws-org-billing-dashboard)** - Dashboard and infrastructure for AWS organization cost and usage report (1 week ago)
-- **[restatedev/restate](https://github.com/restatedev/restate)** - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (3 weeks ago)
