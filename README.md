@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
-- **[aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code)** - Data Lake as Code, featuring ChEMBL and OpenTargets (2 days ago)
-- **[chrxh/alien](https://github.com/chrxh/alien)** - ALIEN is a CUDA-powered artificial life simulation program. (3 days ago)
-- **[boyney123/complexity-is-the-gotcha-of-event-driven-architecture](https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture)** - Repo that contains all my resources for my talk &#34;Complexity is the Gotcha of event-driven architecture&#34; (4 days ago)
+- **[aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code)** - Data Lake as Code, featuring ChEMBL and OpenTargets (3 days ago)
+- **[chrxh/alien](https://github.com/chrxh/alien)** - ALIEN is a CUDA-powered artificial life simulation program. (4 days ago)
+- **[boyney123/complexity-is-the-gotcha-of-event-driven-architecture](https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture)** - Repo that contains all my resources for my talk &#34;Complexity is the Gotcha of event-driven architecture&#34; (5 days ago)
 - **[y-scope/clp](https://github.com/y-scope/clp)** - Compressed Log Processor (CLP) is a free log management tool capable of compressing text logs and searching the compressed logs without decompression. (1 week ago)
-- **[sourcehawk/aws-org-billing-dashboard](https://github.com/sourcehawk/aws-org-billing-dashboard)** - Dashboard and infrastructure for AWS organization cost and usage report (1 week ago)
+- **[sourcehawk/aws-org-billing-dashboard](https://github.com/sourcehawk/aws-org-billing-dashboard)** - Dashboard and infrastructure for AWS organization cost and usage report (2 weeks ago)
