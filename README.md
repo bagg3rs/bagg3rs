@@ -13,6 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - Jekyll and GitHub Actions deploy this to the internets 🌏 (today)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (1 month ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (2 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (4 months ago)
