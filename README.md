@@ -25,7 +25,7 @@
 #### ⭐ Recent Stars
 
 
-- **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The software architecture simulator (1 day ago)
+- **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The software architecture simulator (2 days ago)
 - **[aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code)** - Data Lake as Code, featuring ChEMBL and OpenTargets (3 weeks ago)
 - **[chrxh/alien](https://github.com/chrxh/alien)** - ALIEN is a CUDA-powered artificial life simulation program. (3 weeks ago)
 - **[boyney123/complexity-is-the-gotcha-of-event-driven-architecture](https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture)** - Repo that contains all my resources for my talk &#34;Complexity is the Gotcha of event-driven architecture&#34; (3 weeks ago)
