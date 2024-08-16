@@ -25,7 +25,7 @@
 #### ⭐ Recent Stars
 
 
-- **[Netflix/maestro](https://github.com/Netflix/maestro)** - Maestro: Netflix’s Workflow Orchestrator (1 week ago)
+- **[Netflix/maestro](https://github.com/Netflix/maestro)** - Maestro: Netflix’s Workflow Orchestrator (2 weeks ago)
 - **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The software architecture simulator (2 weeks ago)
 - **[aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code)** - Data Lake as Code, featuring ChEMBL and OpenTargets (1 month ago)
 - **[chrxh/alien](https://github.com/chrxh/alien)** - ALIEN is a CUDA-powered artificial life simulation program. (1 month ago)
