@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
+- **[aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment)** - Command Line Interface tool for Cloud Intelligence Dashboards deployment (today)
 - **[Netflix/maestro](https://github.com/Netflix/maestro)** - Maestro: Netflix’s Workflow Orchestrator (2 weeks ago)
-- **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The software architecture simulator (3 weeks ago)
+- **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The diagramming tool &amp; software architecture simulator (3 weeks ago)
 - **[aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code)** - Data Lake as Code, featuring ChEMBL and OpenTargets (1 month ago)
 - **[chrxh/alien](https://github.com/chrxh/alien)** - ALIEN is a CUDA-powered artificial life simulation program. (1 month ago)
-- **[boyney123/complexity-is-the-gotcha-of-event-driven-architecture](https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture)** - Repo that contains all my resources for my talk &#34;Complexity is the Gotcha of event-driven architecture&#34; (1 month ago)
