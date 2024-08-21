@@ -25,7 +25,7 @@
 #### ⭐ Recent Stars
 
 
-- **[aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment)** - Command Line Interface tool for Cloud Intelligence Dashboards deployment (today)
+- **[aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment)** - Command Line Interface tool for Cloud Intelligence Dashboards deployment (1 day ago)
 - **[Netflix/maestro](https://github.com/Netflix/maestro)** - Maestro: Netflix’s Workflow Orchestrator (2 weeks ago)
 - **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The diagramming tool &amp; software architecture simulator (3 weeks ago)
 - **[aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code)** - Data Lake as Code, featuring ChEMBL and OpenTargets (1 month ago)
