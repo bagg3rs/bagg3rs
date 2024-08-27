@@ -20,13 +20,12 @@
 - [bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code) - This repository contains the code to manage my own DNS records on CloudFlare (8 months ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (10 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (11 months ago)
-- [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 year ago)
 
 #### ⭐ Recent Stars
 
 
-- **[aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment)** - Command Line Interface tool for Cloud Intelligence Dashboards deployment (6 days ago)
+- **[aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment)** - Command Line Interface tool for Cloud Intelligence Dashboards deployment (1 week ago)
 - **[Netflix/maestro](https://github.com/Netflix/maestro)** - Maestro: Netflix’s Workflow Orchestrator (3 weeks ago)
-- **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The diagramming tool &amp; software architecture simulator (3 weeks ago)
+- **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The diagramming tool &amp; software architecture simulator (4 weeks ago)
 - **[aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code)** - Data Lake as Code, featuring ChEMBL and OpenTargets (1 month ago)
 - **[chrxh/alien](https://github.com/chrxh/alien)** - ALIEN is a CUDA-powered artificial life simulation program. (1 month ago)
