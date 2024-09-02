@@ -24,7 +24,7 @@
 #### ⭐ Recent Stars
 
 
-- **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML and LLM (5 days ago)
+- **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML and LLM (6 days ago)
 - **[aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment)** - Command Line Interface tool for Cloud Intelligence Dashboards deployment (1 week ago)
 - **[Netflix/maestro](https://github.com/Netflix/maestro)** - Maestro: Netflix’s Workflow Orchestrator (1 month ago)
 - **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The diagramming tool &amp; software architecture simulator (1 month ago)
