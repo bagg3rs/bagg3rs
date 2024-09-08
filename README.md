@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 day ago)
+- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (2 days ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (1 month ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (3 months ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (4 months ago)
