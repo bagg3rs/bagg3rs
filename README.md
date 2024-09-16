@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (today)
+- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (today)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 week ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (2 months ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (3 months ago)
-- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (5 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (6 months ago)
 - [bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code) - This repository contains the code to manage my own DNS records on CloudFlare (8 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (1 year ago)
