@@ -28,4 +28,4 @@
 - **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML and LLM (3 weeks ago)
 - **[aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment)** - Command Line Interface tool for Cloud Intelligence Dashboards deployment (4 weeks ago)
 - **[Netflix/maestro](https://github.com/Netflix/maestro)** - Maestro: Netflix’s Workflow Orchestrator (1 month ago)
-- **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The diagramming tool &amp; software architecture simulator (1 month ago)
+- **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The diagramming tool for flowcharts, mindmaps, user flows, network &amp; cloud diagrams, and more! (1 month ago)
