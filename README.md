@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
+- **[wulkano/Kap](https://github.com/wulkano/Kap)** - An open-source screen recorder built with web technology (today)
 - **[requestly/requestly](https://github.com/requestly/requestly)** - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000&#43; front-end developers and 11,000&#43; companies worldwide. (1 week ago)
 - **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML and LLM (3 weeks ago)
 - **[aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment)** - Command Line Interface tool for Cloud Intelligence Dashboards deployment (1 month ago)
 - **[Netflix/maestro](https://github.com/Netflix/maestro)** - Maestro: Netflix’s Workflow Orchestrator (1 month ago)
-- **[jodigiordano/gg](https://github.com/jodigiordano/gg)** - The diagramming tool for flowcharts, mindmaps, user flows, network &amp; cloud diagrams, and more! (1 month ago)
