@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (2 weeks ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (2 weeks ago)
+- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (3 weeks ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (3 weeks ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (1 month ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (2 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (6 months ago)
@@ -23,8 +23,8 @@
 #### ⭐ Recent Stars
 
 
-- **[perses/perses](https://github.com/perses/perses)** - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! (today)
-- **[chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice)** - 🔊 The Obsidian Voice plugin to listening to your written content being read aloud.  (3 days ago)
+- **[perses/perses](https://github.com/perses/perses)** - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! (1 day ago)
+- **[chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice)** - 🔊 The Obsidian Voice plugin to listening to your written content being read aloud.  (4 days ago)
 - **[wulkano/Kap](https://github.com/wulkano/Kap)** - An open-source screen recorder built with web technology (2 weeks ago)
 - **[requestly/requestly](https://github.com/requestly/requestly)** - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000&#43; front-end developers and 11,000&#43; companies worldwide. (3 weeks ago)
 - **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML and LLM (1 month ago)
