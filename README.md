@@ -23,7 +23,7 @@
 #### ⭐ Recent Stars
 
 
-- **[marp-team/marp](https://github.com/marp-team/marp)** - The entrance repository of Markdown presentation ecosystem (5 days ago)
+- **[marp-team/marp](https://github.com/marp-team/marp)** - The entrance repository of Markdown presentation ecosystem (6 days ago)
 - **[perses/perses](https://github.com/perses/perses)** - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! (1 week ago)
 - **[chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice)** - 🔊 The Obsidian Voice plugin to listening to your written content being read aloud.  (1 week ago)
 - **[wulkano/Kap](https://github.com/wulkano/Kap)** - An open-source screen recorder built with web technology (3 weeks ago)
