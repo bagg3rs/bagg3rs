@@ -22,8 +22,8 @@
 #### ⭐ Recent Stars
 
 
-- **[sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot)** - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million&#43; lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅ (5 days ago)
+- **[sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot)** - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million&#43; lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅ (6 days ago)
 - **[marp-team/marp](https://github.com/marp-team/marp)** - The entrance repository of Markdown presentation ecosystem (1 week ago)
 - **[perses/perses](https://github.com/perses/perses)** - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! (2 weeks ago)
 - **[chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice)** - 🔊 The Obsidian Voice plugin to listening to your written content being read aloud.  (2 weeks ago)
-- **[wulkano/Kap](https://github.com/wulkano/Kap)** - An open-source screen recorder built with web technology (4 weeks ago)
+- **[wulkano/Kap](https://github.com/wulkano/Kap)** - An open-source screen recorder built with web technology (1 month ago)
