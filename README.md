@@ -22,8 +22,8 @@
 #### ⭐ Recent Stars
 
 
-- **[stack-auth/stack](https://github.com/stack-auth/stack)** - Open-source Auth0/Clerk alternative (1 day ago)
-- **[jozu-ai/kitops](https://github.com/jozu-ai/kitops)** - Securely share and store AI/ML projects as OCI artifacts in your container registry. (1 day ago)
-- **[twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code)** - Obsidian Plugin to execute code in a note. (1 day ago)
-- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** - THE Copilot in Obsidian (1 day ago)
+- **[stack-auth/stack](https://github.com/stack-auth/stack)** - Open-source Auth0/Clerk alternative (2 days ago)
+- **[jozu-ai/kitops](https://github.com/jozu-ai/kitops)** - Securely share and store AI/ML projects as OCI artifacts in your container registry. (2 days ago)
+- **[twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code)** - Obsidian Plugin to execute code in a note. (2 days ago)
+- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** - THE Copilot in Obsidian (2 days ago)
 - **[sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot)** - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million&#43; lines of code in your GitHub, GitLab, and Gitea repositories 🪄 MIT licensed ✅ (1 week ago)
