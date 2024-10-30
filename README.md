@@ -22,8 +22,8 @@
 #### ⭐ Recent Stars
 
 
-- **[grafana/cloudcost-exporter](https://github.com/grafana/cloudcost-exporter)** - Prometheus Exporter for Cloud Provider agnostic cost metrics (1 day ago)
-- **[stack-auth/stack](https://github.com/stack-auth/stack)** - Open-source Auth0/Clerk alternative (3 days ago)
-- **[jozu-ai/kitops](https://github.com/jozu-ai/kitops)** - Securely share and store AI/ML projects as OCI artifacts in your container registry. (3 days ago)
-- **[twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code)** - Obsidian Plugin to execute code in a note. (3 days ago)
-- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** - THE Copilot in Obsidian (3 days ago)
+- **[grafana/cloudcost-exporter](https://github.com/grafana/cloudcost-exporter)** - Prometheus Exporter for Cloud Provider agnostic cost metrics (2 days ago)
+- **[stack-auth/stack](https://github.com/stack-auth/stack)** - Open-source Auth0/Clerk alternative (4 days ago)
+- **[jozu-ai/kitops](https://github.com/jozu-ai/kitops)** - Securely share and store AI/ML projects as OCI artifacts in your container registry. (4 days ago)
+- **[twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code)** - Obsidian Plugin to execute code in a note. (4 days ago)
+- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** - THE Copilot in Obsidian (4 days ago)
