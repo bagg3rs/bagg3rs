@@ -1,6 +1,11 @@
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  - package-ecosystem: "github-actions"
+    directory: "/"
     schedule:
       interval: "weekly"
+      time: "09:00"
+      timezone: "Europe/London"
+    commit-message:
+      prefix: ":dependabot: github-actions"
+      include: "scope"
