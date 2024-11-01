@@ -22,8 +22,8 @@
 #### ⭐ Recent Stars
 
 
-- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (today)
-- **[grafana/cloudcost-exporter](https://github.com/grafana/cloudcost-exporter)** - Prometheus Exporter for Cloud Provider agnostic cost metrics (3 days ago)
-- **[stack-auth/stack](https://github.com/stack-auth/stack)** - Open-source Auth0/Clerk alternative (5 days ago)
-- **[jozu-ai/kitops](https://github.com/jozu-ai/kitops)** - Securely share and store AI/ML projects as OCI artifacts in your container registry. (5 days ago)
-- **[twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code)** - Obsidian Plugin to execute code in a note. (5 days ago)
+- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (1 day ago)
+- **[grafana/cloudcost-exporter](https://github.com/grafana/cloudcost-exporter)** - Prometheus Exporter for Cloud Provider agnostic cost metrics (4 days ago)
+- **[stack-auth/stack](https://github.com/stack-auth/stack)** - Open-source Auth0/Clerk alternative (6 days ago)
+- **[jozu-ai/kitops](https://github.com/jozu-ai/kitops)** - Securely share and store AI/ML projects as OCI artifacts in your container registry. (6 days ago)
+- **[twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code)** - Obsidian Plugin to execute code in a note. (6 days ago)
