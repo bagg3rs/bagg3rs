@@ -22,8 +22,8 @@
 #### ⭐ Recent Stars
 
 
+- **[obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)** - Official web clipper extension for Obsidian. (today)
 - **[retextjs/retext](https://github.com/retextjs/retext)** - natural language processor powered by plugins part of the @unifiedjs collective (1 week ago)
 - **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (1 week ago)
 - **[grafana/cloudcost-exporter](https://github.com/grafana/cloudcost-exporter)** - Prometheus Exporter for Cloud Provider agnostic cost metrics (2 weeks ago)
 - **[stack-auth/stack](https://github.com/stack-auth/stack)** - Open-source Auth0/Clerk alternative (2 weeks ago)
-- **[jozu-ai/kitops](https://github.com/jozu-ai/kitops)** - Securely share and store AI/ML projects as OCI artifacts in your container registry. (2 weeks ago)
