@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (6 days ago)
+- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (1 week ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (2 months ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (2 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (4 months ago)
@@ -22,8 +22,8 @@
 #### ⭐ Recent Stars
 
 
-- **[rajyan/preview-pages](https://github.com/rajyan/preview-pages)** - Action to deploy a preview GitHub Pages for each branch, pull request, commit. (1 day ago)
-- **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (4 days ago)
+- **[rajyan/preview-pages](https://github.com/rajyan/preview-pages)** - Action to deploy a preview GitHub Pages for each branch, pull request, commit. (2 days ago)
+- **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (5 days ago)
 - **[obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)** - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. (1 week ago)
 - **[retextjs/retext](https://github.com/retextjs/retext)** - natural language processor powered by plugins part of the @unifiedjs collective (2 weeks ago)
 - **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (2 weeks ago)
