@@ -22,8 +22,8 @@
 #### ⭐ Recent Stars
 
 
+- **[SanjulaGanepola/github-local-actions](https://github.com/SanjulaGanepola/github-local-actions)** - ✨ Run your GitHub Actions locally in VS Code! (today)
 - **[rajyan/preview-pages](https://github.com/rajyan/preview-pages)** - Action to deploy a preview GitHub Pages for each branch, pull request, commit. (6 days ago)
 - **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (1 week ago)
 - **[obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)** - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. (1 week ago)
 - **[retextjs/retext](https://github.com/retextjs/retext)** - natural language processor powered by plugins part of the @unifiedjs collective (3 weeks ago)
-- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (3 weeks ago)
