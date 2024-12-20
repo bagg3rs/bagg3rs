@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (2 weeks ago)
-- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (4 weeks ago)
+- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (1 month ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (3 months ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (3 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (5 months ago)
@@ -23,7 +23,7 @@
 #### ⭐ Recent Stars
 
 
-- **[lightdash/lightdash](https://github.com/lightdash/lightdash)** - Self-serve BI to 10x your data team ⚡️ (3 days ago)
+- **[lightdash/lightdash](https://github.com/lightdash/lightdash)** - Self-serve BI to 10x your data team ⚡️ (4 days ago)
 - **[SanjulaGanepola/github-local-actions](https://github.com/SanjulaGanepola/github-local-actions)** - ✨ Run your GitHub Actions locally in VS Code! (3 weeks ago)
 - **[rajyan/preview-pages](https://github.com/rajyan/preview-pages)** - Action to deploy a preview GitHub Pages for each branch, pull request, commit. (1 month ago)
 - **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (1 month ago)
