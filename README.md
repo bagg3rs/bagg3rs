@@ -23,8 +23,8 @@
 #### ⭐ Recent Stars
 
 
-- **[lightdash/lightdash](https://github.com/lightdash/lightdash)** - Self-serve BI to 10x your data team ⚡️ (4 days ago)
+- **[turbot/steampipe](https://github.com/turbot/steampipe)** - Zero-ETL, infinite possibilities. Live query APIs, code &amp; more with SQL. No DB required. (1 day ago)
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** - Python tool for converting files and office documents to Markdown. (1 day ago)
+- **[lightdash/lightdash](https://github.com/lightdash/lightdash)** - Self-serve BI to 10x your data team ⚡️ (5 days ago)
 - **[SanjulaGanepola/github-local-actions](https://github.com/SanjulaGanepola/github-local-actions)** - ✨ Run your GitHub Actions locally in VS Code! (3 weeks ago)
 - **[rajyan/preview-pages](https://github.com/rajyan/preview-pages)** - Action to deploy a preview GitHub Pages for each branch, pull request, commit. (1 month ago)
-- **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (1 month ago)
-- **[obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)** - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. (1 month ago)
