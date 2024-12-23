@@ -23,8 +23,8 @@
 #### ⭐ Recent Stars
 
 
-- **[turbot/steampipe](https://github.com/turbot/steampipe)** - Zero-ETL, infinite possibilities. Live query APIs, code &amp; more with SQL. No DB required. (2 days ago)
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** - Python tool for converting files and office documents to Markdown. (2 days ago)
-- **[lightdash/lightdash](https://github.com/lightdash/lightdash)** - Self-serve BI to 10x your data team ⚡️ (6 days ago)
+- **[turbot/steampipe](https://github.com/turbot/steampipe)** - Zero-ETL, infinite possibilities. Live query APIs, code &amp; more with SQL. No DB required. (3 days ago)
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** - Python tool for converting files and office documents to Markdown. (3 days ago)
+- **[lightdash/lightdash](https://github.com/lightdash/lightdash)** - Self-serve BI to 10x your data team ⚡️ (1 week ago)
 - **[SanjulaGanepola/github-local-actions](https://github.com/SanjulaGanepola/github-local-actions)** - ✨ Run your GitHub Actions locally in VS Code! (4 weeks ago)
 - **[rajyan/preview-pages](https://github.com/rajyan/preview-pages)** - Action to deploy a preview GitHub Pages for each branch, pull request, commit. (1 month ago)
