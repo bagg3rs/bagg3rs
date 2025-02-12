@@ -26,7 +26,7 @@
 #### ⭐ Recent Stars
 
 
-- **[penpot/penpot](https://github.com/penpot/penpot)** - Penpot: The open-source design tool for design and code collaboration (3 days ago)
+- **[penpot/penpot](https://github.com/penpot/penpot)** - Penpot: The open-source design tool for design and code collaboration (4 days ago)
 - **[magodo/pipeform](https://github.com/magodo/pipeform)** - Terraform runtime TUI 🫧 (1 month ago)
 - **[turbot/steampipe](https://github.com/turbot/steampipe)** - Zero-ETL, infinite possibilities. Live query APIs, code &amp; more with SQL. No DB required. (1 month ago)
 - **[microsoft/markitdown](https://github.com/microsoft/markitdown)** - Python tool for converting files and office documents to Markdown. (1 month ago)
