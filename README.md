@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a real-time analytics database management system (1 week ago)
-- **[moj-analytical-services/data-and-analytics-engineering-tech-radar](https://github.com/moj-analytical-services/data-and-analytics-engineering-tech-radar)** - Visualizing our technology choices (1 week ago)
+- **[mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)** - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date. (1 day ago)
+- **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a real-time analytics database management system (2 weeks ago)
+- **[moj-analytical-services/data-and-analytics-engineering-tech-radar](https://github.com/moj-analytical-services/data-and-analytics-engineering-tech-radar)** - Visualizing our technology choices (2 weeks ago)
 - **[dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox)** - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud. (2 weeks ago)
 - **[penpot/penpot](https://github.com/penpot/penpot)** - Penpot: The open-source design tool for design and code collaboration (3 weeks ago)
-- **[magodo/pipeform](https://github.com/magodo/pipeform)** - Terraform runtime TUI 🫧 (1 month ago)
