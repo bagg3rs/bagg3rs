@@ -30,4 +30,4 @@
 - **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a real-time analytics database management system (3 weeks ago)
 - **[moj-analytical-services/data-and-analytics-engineering-tech-radar](https://github.com/moj-analytical-services/data-and-analytics-engineering-tech-radar)** - Visualizing our technology choices (3 weeks ago)
 - **[dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox)** - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud. (3 weeks ago)
-- **[penpot/penpot](https://github.com/penpot/penpot)** - Penpot: The open-source design tool for design and code collaboration (4 weeks ago)
+- **[penpot/penpot](https://github.com/penpot/penpot)** - Penpot: The open-source design tool for design and code collaboration (1 month ago)
