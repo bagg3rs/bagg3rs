@@ -17,8 +17,8 @@
 - [ministryofjustice/technical-architecture](https://github.com/ministryofjustice/technical-architecture) - Documentation for how we do Technical Architecture at the Ministry of Justice (3 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (3 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (3 months ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (5 months ago)
-- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (5 months ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (6 months ago)
+- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (6 months ago)
 - [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (6 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (8 months ago)
 - [ministryofjustice/acronyms](https://github.com/ministryofjustice/acronyms) - List of abbreviations used within the MoJ, and their definitions. (10 months ago)
@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)** - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date. (1 week ago)
+- **[mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)** - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date. (2 weeks ago)
 - **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a real-time analytics database management system (3 weeks ago)
 - **[moj-analytical-services/data-and-analytics-engineering-tech-radar](https://github.com/moj-analytical-services/data-and-analytics-engineering-tech-radar)** - Visualizing our technology choices (3 weeks ago)
-- **[dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox)** - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud. (4 weeks ago)
+- **[dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox)** - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud. (1 month ago)
 - **[penpot/penpot](https://github.com/penpot/penpot)** - Penpot: The open-source design tool for design and code collaboration (1 month ago)
