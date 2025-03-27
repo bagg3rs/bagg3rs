@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
+- **[aws-samples/sample-developer-environment](https://github.com/aws-samples/sample-developer-environment)** (1 day ago)
 - **[mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)** - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date. (3 weeks ago)
 - **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a real-time analytics database management system (1 month ago)
 - **[moj-analytical-services/data-and-analytics-engineering-tech-radar](https://github.com/moj-analytical-services/data-and-analytics-engineering-tech-radar)** - Visualizing our technology choices (1 month ago)
 - **[dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox)** - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud. (1 month ago)
-- **[penpot/penpot](https://github.com/penpot/penpot)** - Penpot: The open-source design tool for design and code collaboration (1 month ago)
