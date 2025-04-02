@@ -26,7 +26,7 @@
 #### ⭐ Recent Stars
 
 
-- **[aws-samples/sample-developer-environment](https://github.com/aws-samples/sample-developer-environment)** - AWS Cloud9 and CodeCommit alternative with CI/CD pipeline (6 days ago)
+- **[aws-samples/sample-developer-environment](https://github.com/aws-samples/sample-developer-environment)** - AWS Cloud9 and CodeCommit alternative with CI/CD pipeline (1 week ago)
 - **[mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)** - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date. (1 month ago)
 - **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a real-time analytics database management system (1 month ago)
 - **[moj-analytical-services/data-and-analytics-engineering-tech-radar](https://github.com/moj-analytical-services/data-and-analytics-engineering-tech-radar)** - Visualizing our technology choices (1 month ago)
