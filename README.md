@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[awslabs/mcp](https://github.com/awslabs/mcp)** - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow (4 days ago)
-- **[cremich/awesome-q-developer](https://github.com/cremich/awesome-q-developer)** - 🤖 🧑‍💻  🛠️ A curated list of awesome things related to Amazon Q Developer  (4 days ago)
-- **[suitenumerique/docs](https://github.com/suitenumerique/docs)** - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (4 days ago)
+- **[awslabs/mcp](https://github.com/awslabs/mcp)** - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow (5 days ago)
+- **[cremich/awesome-q-developer](https://github.com/cremich/awesome-q-developer)** - 🤖 🧑‍💻  🛠️ A curated list of awesome things related to Amazon Q Developer  (5 days ago)
+- **[suitenumerique/docs](https://github.com/suitenumerique/docs)** - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (5 days ago)
 - **[aws-samples/sample-developer-environment](https://github.com/aws-samples/sample-developer-environment)** - AWS Cloud9 and CodeCommit alternative with GitOps pipeline (2 weeks ago)
 - **[mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)** - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date. (1 month ago)
