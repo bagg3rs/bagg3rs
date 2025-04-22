@@ -26,7 +26,7 @@
 #### ⭐ Recent Stars
 
 
-- **[trycua/cua](https://github.com/trycua/cua)** - c/ua is the Docker Container for Computer-Use AI Agents. (2 days ago)
+- **[trycua/cua](https://github.com/trycua/cua)** - c/ua is the Docker Container for Computer-Use AI Agents. (3 days ago)
 - **[aarora79/aws-cost-explorer-mcp-server](https://github.com/aarora79/aws-cost-explorer-mcp-server)** - MCP server for understanding AWS spend (1 week ago)
 - **[awslabs/mcp](https://github.com/awslabs/mcp)** - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow (2 weeks ago)
 - **[cremich/awesome-q-developer](https://github.com/cremich/awesome-q-developer)** - 🤖 🧑‍💻  🛠️ A curated list of awesome things related to Amazon Q Developer  (2 weeks ago)
