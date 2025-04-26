@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws)** - This Guidance demonstrates how to monitor and optimize the energy use of industrial and/or building equipment in customer premises using AI/ML on AWS. (1 day ago)
-- **[trycua/cua](https://github.com/trycua/cua)** - c/ua is the Docker Container for Computer-Use AI Agents. (6 days ago)
-- **[aarora79/aws-cost-explorer-mcp-server](https://github.com/aarora79/aws-cost-explorer-mcp-server)** - MCP server for understanding AWS spend (1 week ago)
-- **[awslabs/mcp](https://github.com/awslabs/mcp)** - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow (2 weeks ago)
-- **[cremich/awesome-q-developer](https://github.com/cremich/awesome-q-developer)** - 🤖 🧑‍💻  🛠️ A curated list of awesome things related to Amazon Q Developer  (2 weeks ago)
+- **[aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws)** - This Guidance demonstrates how to monitor and optimize the energy use of industrial and/or building equipment in customer premises using AI/ML on AWS. (2 days ago)
+- **[trycua/cua](https://github.com/trycua/cua)** - c/ua is the Docker Container for Computer-Use AI Agents. (1 week ago)
+- **[aarora79/aws-cost-explorer-mcp-server](https://github.com/aarora79/aws-cost-explorer-mcp-server)** - MCP server for understanding AWS spend (2 weeks ago)
+- **[awslabs/mcp](https://github.com/awslabs/mcp)** - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow (3 weeks ago)
+- **[cremich/awesome-q-developer](https://github.com/cremich/awesome-q-developer)** - 🤖 🧑‍💻  🛠️ A curated list of awesome things related to Amazon Q Developer  (3 weeks ago)
