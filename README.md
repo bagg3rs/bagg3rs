@@ -19,7 +19,7 @@
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (5 months ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (7 months ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (7 months ago)
-- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (7 months ago)
+- [moj-analytical-services/user-guidance](https://github.com/moj-analytical-services/user-guidance) - User guidance for the MoJ Analytical Platform (8 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (9 months ago)
 - [ministryofjustice/acronyms](https://github.com/ministryofjustice/acronyms) - List of abbreviations used within the MoJ, and their definitions. (11 months ago)
 
