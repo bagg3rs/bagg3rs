@@ -2,7 +2,7 @@
 
 👐 I'm [Rich Baguley](https://richardbaguley.com/about)
 
-🏢 I work [@Ministry of Justice](https://github.com/ministryofjustice) as a [Principal Technical Architect](https://ddat-capability-framework.service.gov.uk/role/technical-architect#principal-technical-architect) across the Data Platform service area including [Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/)
+🏢 I work @AWS as a Senior Solutions Architect
 
 #### 👨‍💻 Repositories I created recently
 - **[bagg3rs/Cloud-Ops-Team](https://github.com/bagg3rs/Cloud-Ops-Team)** - Documentation for the formally known Cloud Operations or CloudOps Team
