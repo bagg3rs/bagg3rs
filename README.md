@@ -30,4 +30,4 @@
 - **[aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws)** - This Guidance demonstrates how to monitor and optimize the energy use of industrial and/or building equipment in customer premises using AI/ML on AWS. (1 month ago)
 - **[trycua/cua](https://github.com/trycua/cua)** - c/ua is the Docker Container for Computer-Use AI Agents. (1 month ago)
 - **[aarora79/aws-cost-explorer-mcp-server](https://github.com/aarora79/aws-cost-explorer-mcp-server)** - MCP server for understanding AWS spend (1 month ago)
-- **[awslabs/mcp](https://github.com/awslabs/mcp)** - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow (2 months ago)
+- **[awslabs/mcp](https://github.com/awslabs/mcp)** - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. (2 months ago)
