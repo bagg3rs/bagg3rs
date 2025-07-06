@@ -26,7 +26,7 @@
 #### ⭐ Recent Stars
 
 
-- **[aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws)** - Innovation Sandbox on AWS enables cloud administrators to automate the management of temporary sandbox environments by implementing service control policies, spend controls, and account recycling mechanisms. (4 days ago)
+- **[aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws)** - Innovation Sandbox on AWS enables cloud administrators to automate the management of temporary sandbox environments by implementing service control policies, spend controls, and account recycling mechanisms. (5 days ago)
 - **[MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)** - MCP server that interacts with Obsidian via the Obsidian rest API community plugin (2 months ago)
 - **[aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws)** - This Guidance demonstrates how to monitor and optimize the energy use of industrial and/or building equipment in customer premises using AI/ML on AWS. (2 months ago)
 - **[trycua/cua](https://github.com/trycua/cua)** - c/ua is the Docker Container for Computer-Use AI Agents. (2 months ago)
