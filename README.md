@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
+- **[rilldata/rill](https://github.com/rilldata/rill)** - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code. (today)
 - **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server (3 days ago)
 - **[eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)** - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. (1 week ago)
 - **[aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws)** - Innovation Sandbox on AWS enables cloud administrators to automate the management of temporary sandbox environments by implementing service control policies, spend controls, and account recycling mechanisms. (1 week ago)
 - **[MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)** - MCP server that interacts with Obsidian via the Obsidian rest API community plugin (2 months ago)
-- **[aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-monitoring-and-optimizing-energy-usage-on-aws)** - This Guidance demonstrates how to monitor and optimize the energy use of industrial and/or building equipment in customer premises using AI/ML on AWS. (2 months ago)
