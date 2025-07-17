@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (today)
+- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (1 day ago)
 - [ministryofjustice/analytical-platform](https://github.com/ministryofjustice/analytical-platform) - Analytical Platform • This repository is defined and managed in Terraform (6 months ago)
 - [ministryofjustice/technical-architecture](https://github.com/ministryofjustice/technical-architecture) - Documentation for how we do Technical Architecture at the Ministry of Justice (7 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (7 months ago)
@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
-- **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours (2 days ago)
-- **[rilldata/rill](https://github.com/rilldata/rill)** - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code. (2 days ago)
-- **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server (5 days ago)
+- **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours (3 days ago)
+- **[rilldata/rill](https://github.com/rilldata/rill)** - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code. (3 days ago)
+- **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server (6 days ago)
 - **[eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)** - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. (1 week ago)
 - **[aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws)** - Innovation Sandbox on AWS enables cloud administrators to automate the management of temporary sandbox environments by implementing service control policies, spend controls, and account recycling mechanisms. (2 weeks ago)
