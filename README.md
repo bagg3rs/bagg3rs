@@ -27,8 +27,8 @@
 #### ⭐ Recent Stars
 
 
+- **[awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)** - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. (today)
 - **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours (4 days ago)
 - **[rilldata/rill](https://github.com/rilldata/rill)** - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code. (4 days ago)
 - **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server (1 week ago)
 - **[eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)** - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. (1 week ago)
-- **[aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws)** - Innovation Sandbox on AWS enables cloud administrators to automate the management of temporary sandbox environments by implementing service control policies, spend controls, and account recycling mechanisms. (2 weeks ago)
