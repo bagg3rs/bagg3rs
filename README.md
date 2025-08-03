@@ -16,7 +16,7 @@
 - [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (1 week ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (2 weeks ago)
 - [ministryofjustice/analytical-platform](https://github.com/ministryofjustice/analytical-platform) - Analytical Platform • This repository is defined and managed in Terraform (7 months ago)
-- [ministryofjustice/technical-architecture](https://github.com/ministryofjustice/technical-architecture) - Documentation for how we do Technical Architecture at the Ministry of Justice (7 months ago)
+- [ministryofjustice/technical-architecture](https://github.com/ministryofjustice/technical-architecture) - Documentation for how we do Technical Architecture at the Ministry of Justice (8 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (8 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (8 months ago)
 - [bagg3rs/Cloud-Ops-Team](https://github.com/bagg3rs/Cloud-Ops-Team) - Documentation for the formally known Cloud Operations or CloudOps Team (9 months ago)
