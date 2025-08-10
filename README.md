@@ -30,5 +30,5 @@
 - **[awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)** - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. (3 weeks ago)
 - **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours (3 weeks ago)
 - **[rilldata/rill](https://github.com/rilldata/rill)** - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code. (3 weeks ago)
-- **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server (4 weeks ago)
+- **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server (1 month ago)
 - **[eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)** - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. (1 month ago)
