@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (3 weeks ago)
+- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (4 weeks ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (1 month ago)
 - [ministryofjustice/analytical-platform](https://github.com/ministryofjustice/analytical-platform) - Analytical Platform • This repository is defined and managed in Terraform (8 months ago)
 - [ministryofjustice/technical-architecture](https://github.com/ministryofjustice/technical-architecture) - Documentation for how we do Technical Architecture at the Ministry of Justice (8 months ago)
