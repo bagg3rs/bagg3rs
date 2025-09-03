@@ -2,7 +2,7 @@
 
 👐 I'm [Rich Baguley](https://richardbaguley.com/about)
 
-🏢 I work [@Ministry of Justice](https://github.com/ministryofjustice) as a [Principal Technical Architect](https://ddat-capability-framework.service.gov.uk/role/technical-architect#principal-technical-architect) across the Data Platform service area including [Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/)
+🏢 I work [@Amazon Web Services](https://github.com/ministryofjustice) as a Senior Solutions Architect.
 
 #### 👨‍💻 Repositories I created recently
 - **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours
