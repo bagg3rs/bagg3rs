@@ -20,8 +20,8 @@
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (9 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (9 months ago)
 - [bagg3rs/Cloud-Ops-Team](https://github.com/bagg3rs/Cloud-Ops-Team) - Documentation for the formally known Cloud Operations or CloudOps Team (10 months ago)
-- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (11 months ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (11 months ago)
+- [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (1 year ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (1 year ago)
 
 #### ⭐ Recent Stars
 
