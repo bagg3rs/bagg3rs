@@ -28,6 +28,6 @@
 
 - **[microsoft/AirSim](https://github.com/microsoft/AirSim)** - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI &amp; Research (3 weeks ago)
 - **[awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)** - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. (1 month ago)
-- **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours (1 month ago)
-- **[rilldata/rill](https://github.com/rilldata/rill)** - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code. (1 month ago)
+- **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours (2 months ago)
+- **[rilldata/rill](https://github.com/rilldata/rill)** - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code. (2 months ago)
 - **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server (2 months ago)
