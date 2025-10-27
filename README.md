@@ -20,12 +20,12 @@
 - [ministryofjustice/technical-architecture](https://github.com/ministryofjustice/technical-architecture) - Documentation for how we do Technical Architecture at the Ministry of Justice (10 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (10 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (11 months ago)
-- [bagg3rs/Cloud-Ops-Team](https://github.com/bagg3rs/Cloud-Ops-Team) - Documentation for the formally known Cloud Operations or CloudOps Team (11 months ago)
+- [bagg3rs/Cloud-Ops-Team](https://github.com/bagg3rs/Cloud-Ops-Team) - Documentation for the formally known Cloud Operations or CloudOps Team (1 year ago)
 
 #### ⭐ Recent Stars
 
 
-- **[aws/lza-universal-configuration](https://github.com/aws/lza-universal-configuration)** (2 days ago)
+- **[aws/lza-universal-configuration](https://github.com/aws/lza-universal-configuration)** (3 days ago)
 - **[microsoft/AirSim](https://github.com/microsoft/AirSim)** - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI &amp; Research (2 months ago)
 - **[awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)** - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. (3 months ago)
 - **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours (3 months ago)
