@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 month ago)
-- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (3 months ago)
+- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (4 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (4 months ago)
 - [ministryofjustice/analytical-platform](https://github.com/ministryofjustice/analytical-platform) - Analytical Platform • This repository is defined and managed in Terraform (11 months ago)
 - [ministryofjustice/technical-architecture](https://github.com/ministryofjustice/technical-architecture) - Documentation for how we do Technical Architecture at the Ministry of Justice (11 months ago)
