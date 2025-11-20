@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
+- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (today)
 - **[aws-samples/sample-agentic-ai-robot](https://github.com/aws-samples/sample-agentic-ai-robot)** - Agentic AI Robot: Industrial Safety Monitoring and Control (2 weeks ago)
 - **[aws/lza-universal-configuration](https://github.com/aws/lza-universal-configuration)** (3 weeks ago)
 - **[microsoft/AirSim](https://github.com/microsoft/AirSim)** - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI &amp; Research (3 months ago)
 - **[awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)** - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. (4 months ago)
-- **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours (4 months ago)
