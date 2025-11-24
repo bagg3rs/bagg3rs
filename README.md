@@ -19,12 +19,11 @@
 - [ministryofjustice/analytical-platform](https://github.com/ministryofjustice/analytical-platform) - Analytical Platform • This repository is defined and managed in Terraform (11 months ago)
 - [ministryofjustice/technical-architecture](https://github.com/ministryofjustice/technical-architecture) - Documentation for how we do Technical Architecture at the Ministry of Justice (11 months ago)
 - [bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook) - Used to test and collect all things github (11 months ago)
-- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (1 year ago)
 
 #### ⭐ Recent Stars
 
 
-- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (3 days ago)
+- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (4 days ago)
 - **[aws-samples/sample-agentic-ai-robot](https://github.com/aws-samples/sample-agentic-ai-robot)** - Agentic AI Robot: Industrial Safety Monitoring and Control (2 weeks ago)
 - **[aws/lza-universal-configuration](https://github.com/aws/lza-universal-configuration)** (1 month ago)
 - **[microsoft/AirSim](https://github.com/microsoft/AirSim)** - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI &amp; Research (3 months ago)
