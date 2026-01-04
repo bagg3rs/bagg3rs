@@ -22,6 +22,6 @@
 
 - **[Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather)** - Code and documentation for the Pirate Weather API (1 week ago)
 - **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (1 month ago)
-- **[aws-samples/sample-agentic-ai-robot](https://github.com/aws-samples/sample-agentic-ai-robot)** - Agentic AI Robot: Industrial Safety Monitoring and Control (1 month ago)
+- **[aws-samples/sample-agentic-ai-robot](https://github.com/aws-samples/sample-agentic-ai-robot)** - Agentic AI Robot: Industrial Safety Monitoring and Control (2 months ago)
 - **[aws/lza-universal-configuration](https://github.com/aws/lza-universal-configuration)** (2 months ago)
 - **[microsoft/AirSim](https://github.com/microsoft/AirSim)** - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI &amp; Research (4 months ago)
