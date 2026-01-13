@@ -15,13 +15,13 @@
 
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (3 months ago)
 - [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (5 months ago)
-- [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (5 months ago)
+- [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (6 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)** - A model-driven approach to building AI agents in just a few lines of code. (3 days ago)
-- **[Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather)** - Code and documentation for the Pirate Weather API (2 weeks ago)
+- **[strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)** - A model-driven approach to building AI agents in just a few lines of code. (4 days ago)
+- **[Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather)** - Code and documentation for the Pirate Weather API (3 weeks ago)
 - **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (1 month ago)
 - **[aws-samples/sample-agentic-ai-robot](https://github.com/aws-samples/sample-agentic-ai-robot)** - Agentic AI Robot: Industrial Safety Monitoring and Control (2 months ago)
 - **[aws/lza-universal-configuration](https://github.com/aws/lza-universal-configuration)** (2 months ago)
