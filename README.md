@@ -20,7 +20,7 @@
 #### ⭐ Recent Stars
 
 
-- **[strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)** - A model-driven approach to building AI agents in just a few lines of code. (2 weeks ago)
+- **[strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)** - A model-driven approach to building AI agents in just a few lines of code. (3 weeks ago)
 - **[Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather)** - Code and documentation for the Pirate Weather API (1 month ago)
 - **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (2 months ago)
 - **[aws-samples/sample-agentic-ai-robot](https://github.com/aws-samples/sample-agentic-ai-robot)** - Agentic AI Robot: Industrial Safety Monitoring and Control (2 months ago)
