@@ -20,7 +20,7 @@
 #### ⭐ Recent Stars
 
 
-- **[tobi/qmd](https://github.com/tobi/qmd)** - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (6 days ago)
+- **[tobi/qmd](https://github.com/tobi/qmd)** - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 week ago)
 - **[strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)** - A model-driven approach to building AI agents in just a few lines of code. (1 month ago)
 - **[Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather)** - Code and documentation for the Pirate Weather API (1 month ago)
 - **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (2 months ago)
