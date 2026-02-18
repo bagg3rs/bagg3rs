@@ -13,18 +13,18 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (3 days ago)
-- [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (3 days ago)
-- [bagg3rs/prom-grafana](https://github.com/bagg3rs/prom-grafana) - Grafana &#43; Prometheus and friends via docker-compose (3 days ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (3 days ago)
-- [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (4 days ago)
+- [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (1 day ago)
+- [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (4 days ago)
+- [bagg3rs/prom-grafana](https://github.com/bagg3rs/prom-grafana) - Grafana &#43; Prometheus and friends via docker-compose (4 days ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (4 days ago)
+- [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (5 days ago)
 - [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (7 months ago)
 
 #### ⭐ Recent Stars
 
 
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (1 day ago)
 - **[tobi/qmd](https://github.com/tobi/qmd)** - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (2 weeks ago)
 - **[strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)** - A model-driven approach to building AI agents in just a few lines of code. (1 month ago)
 - **[Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather)** - Code and documentation for the Pirate Weather API (1 month ago)
-- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (2 months ago)
-- **[aws-samples/sample-agentic-ai-robot](https://github.com/aws-samples/sample-agentic-ai-robot)** - Agentic AI Robot: Industrial Safety Monitoring and Control (3 months ago)
+- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (3 months ago)
