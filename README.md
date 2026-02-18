@@ -23,8 +23,8 @@
 #### ⭐ Recent Stars
 
 
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (today)
 - **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (1 day ago)
 - **[tobi/qmd](https://github.com/tobi/qmd)** - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (2 weeks ago)
 - **[strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)** - A model-driven approach to building AI agents in just a few lines of code. (1 month ago)
 - **[Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather)** - Code and documentation for the Pirate Weather API (1 month ago)
-- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** - Breakthrough Method for Agile Ai Driven Development (3 months ago)
