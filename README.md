@@ -5,19 +5,20 @@
 🏢 I work [@Amazon Web Services](https://github.com/ministryofjustice) as a Senior Solutions Architect.
 
 #### 👨‍💻 Repositories I created recently
+- **[bagg3rs/naboo](https://github.com/bagg3rs/naboo)**
 - **[bagg3rs/sagemaker-unified-studio](https://github.com/bagg3rs/sagemaker-unified-studio)**
 - **[bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession)** - Mathematical model and visualisation of clonal succession in tumours
 - **[bagg3rs/Cloud-Ops-Team](https://github.com/bagg3rs/Cloud-Ops-Team)** - Documentation for the formally known Cloud Operations or CloudOps Team
 - **[bagg3rs/dns-as-code](https://github.com/bagg3rs/dns-as-code)** - This repository contains the code to manage my own DNS records on CloudFlare
-- **[bagg3rs/github-playbook](https://github.com/bagg3rs/github-playbook)** - Used to test and collect all things github
 
 #### 👷 Check out what I'm currently working on
 
+- [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (today)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (1 day ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (1 week ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (1 week ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (1 week ago)
 - [bagg3rs/prom-grafana](https://github.com/bagg3rs/prom-grafana) - Grafana &#43; Prometheus and friends via docker-compose (1 week ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (1 week ago)
 - [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (7 months ago)
 
 #### ⭐ Recent Stars
