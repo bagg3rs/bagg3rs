@@ -25,7 +25,7 @@
 
 
 - **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 week ago)
-- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** - Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀 (1 week ago)
+- **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** - Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀 (1 week ago)
 - **[tobi/qmd](https://github.com/tobi/qmd)** - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (3 weeks ago)
 - **[strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)** - A model-driven approach to building AI agents in just a few lines of code. (1 month ago)
 - **[Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather)** - Code and documentation for the Pirate Weather API (2 months ago)
