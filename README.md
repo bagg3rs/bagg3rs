@@ -24,8 +24,8 @@
 #### ⭐ Recent Stars
 
 
+- **[awslabs/LISA](https://github.com/awslabs/LISA)** - LLM inference solution for Amazon Dedicated Cloud (LISA).  (today)
 - **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 week ago)
 - **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 weeks ago)
 - **[tobi/qmd](https://github.com/tobi/qmd)** - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (4 weeks ago)
 - **[strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)** - A model-driven approach to building AI agents in just a few lines of code. (1 month ago)
-- **[Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather)** - Code and documentation for the Pirate Weather API (2 months ago)
