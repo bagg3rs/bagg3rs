@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (today)
 - [bagg3rs/prom-grafana](https://github.com/bagg3rs/prom-grafana) - Grafana &#43; Prometheus and friends via docker-compose (1 day ago)
-- [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (2 days ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (4 days ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (1 week ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (2 weeks ago)
