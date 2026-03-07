@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (1 day ago)
+- [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (today)
 - [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (1 day ago)
 - [bagg3rs/prom-grafana](https://github.com/bagg3rs/prom-grafana) - Grafana &#43; Prometheus and friends via docker-compose (2 days ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (5 days ago)
