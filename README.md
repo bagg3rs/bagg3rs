@@ -25,8 +25,8 @@
 #### ⭐ Recent Stars
 
 
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** - AI agents running research on single-GPU nanochat training automatically (today)
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** - 🎥      Make videos programmatically with React (2 days ago)
 - **[awslabs/LISA](https://github.com/awslabs/LISA)** - LLM inference solution for Amazon Dedicated Cloud (LISA).  (5 days ago)
 - **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (2 weeks ago)
 - **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 weeks ago)
-- **[tobi/qmd](https://github.com/tobi/qmd)** - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 month ago)
