@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (today)
+- [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (1 day ago)
 - [bagg3rs/spelling-star](https://github.com/bagg3rs/spelling-star) - ⭐ Spelling Star - Practice spelling words as a game (1 week ago)
 - [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (2 weeks ago)
 - [bagg3rs/prom-grafana](https://github.com/bagg3rs/prom-grafana) - Grafana &#43; Prometheus and friends via docker-compose (2 weeks ago)
@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (3 days ago)
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (3 days ago)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - CLI-Anything: Making ALL Software Agent-Native (6 days ago)
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (4 days ago)
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (4 days ago)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - CLI-Anything: Making ALL Software Agent-Native (1 week ago)
 - **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** - AI agents running research on single-GPU nanochat training automatically (1 week ago)
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** - 🎥      Make videos programmatically with React (2 weeks ago)
