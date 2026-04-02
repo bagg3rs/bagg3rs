@@ -28,6 +28,6 @@
 
 - **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 - **[francescopace/espectre](https://github.com/francescopace/espectre)** - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (2 weeks ago)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - CLI-Anything: Making ALL Software Agent-Native (2 weeks ago)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/ (2 weeks ago)
 - **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** - AI agents running research on single-GPU nanochat training automatically (3 weeks ago)
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** - 🎥      Make videos programmatically with React (3 weeks ago)
