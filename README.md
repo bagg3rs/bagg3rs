@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[bagg3rs/moving-nz-timing](https://github.com/bagg3rs/moving-nz-timing)** - Auckland relocation planning — visa, property, IHT, family, schools, career (today)
-- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
-- **[francescopace/espectre](https://github.com/francescopace/espectre)** - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (2 weeks ago)
+- **[bagg3rs/moving-nz-timing](https://github.com/bagg3rs/moving-nz-timing)** - Auckland relocation planning — visa, property, IHT, family, schools, career (1 day ago)
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (3 weeks ago)
+- **[francescopace/espectre](https://github.com/francescopace/espectre)** - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (3 weeks ago)
 - **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (3 weeks ago)
-- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** - AI agents running research on single-GPU nanochat training automatically (4 weeks ago)
+- **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** - AI agents running research on single-GPU nanochat training automatically (1 month ago)
