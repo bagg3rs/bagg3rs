@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (3 weeks ago)
+- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (4 weeks ago)
 - [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (1 month ago)
 - [bagg3rs/spelling-star](https://github.com/bagg3rs/spelling-star) - ⭐ Spelling Star - Practice spelling words as a game (1 month ago)
 - [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (1 month ago)
