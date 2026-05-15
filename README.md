@@ -21,12 +21,12 @@
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (2 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (2 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (2 months ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (2 months ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (3 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (4 days ago)
+- **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (5 days ago)
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 month ago)
 - **[floci-io/floci](https://github.com/floci-io/floci)** - Light, fluffy, and always free - The AWS Local Emulator alternative (1 month ago)
 - **[bagg3rs/moving-nz-timing](https://github.com/bagg3rs/moving-nz-timing)** - Auckland relocation planning — visa, property, IHT, family, schools, career (1 month ago)
