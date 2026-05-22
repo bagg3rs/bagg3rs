@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
+- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** - Desktop app to manage markdown knowledge bases (today)
 - **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (1 week ago)
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 month ago)
 - **[floci-io/floci](https://github.com/floci-io/floci)** - Light, fluffy, and always free - The AWS Local Emulator alternative (1 month ago)
 - **[bagg3rs/moving-nz-timing](https://github.com/bagg3rs/moving-nz-timing)** - Auckland relocation planning — visa, property, IHT, family, schools, career (1 month ago)
-- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (2 months ago)
