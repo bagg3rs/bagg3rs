@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (1 month ago)
+- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (2 months ago)
 - [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (2 months ago)
 - [bagg3rs/spelling-star](https://github.com/bagg3rs/spelling-star) - ⭐ Spelling Star - Practice spelling words as a game (2 months ago)
 - [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (2 months ago)
@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** - Desktop app to manage markdown knowledge bases (1 day ago)
-- **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (1 week ago)
+- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** - Desktop app to manage markdown knowledge bases (2 days ago)
+- **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (2 weeks ago)
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 month ago)
 - **[floci-io/floci](https://github.com/floci-io/floci)** - Light, fluffy, and always free - The AWS Local Emulator alternative (1 month ago)
 - **[bagg3rs/moving-nz-timing](https://github.com/bagg3rs/moving-nz-timing)** - Auckland relocation planning — visa, property, IHT, family, schools, career (1 month ago)
