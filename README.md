@@ -21,12 +21,12 @@
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (3 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (3 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (3 months ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (3 months ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (4 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[sideseat/sideseat](https://github.com/sideseat/sideseat)** - Unified workbench for building and debugging AI Agents (4 days ago)
+- **[sideseat/sideseat](https://github.com/sideseat/sideseat)** - Unified workbench for building and debugging AI Agents (5 days ago)
 - **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** - Desktop app to manage markdown knowledge bases (3 weeks ago)
 - **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (1 month ago)
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (2 months ago)
