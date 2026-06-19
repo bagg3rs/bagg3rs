@@ -27,7 +27,7 @@
 
 
 - **[sideseat/sideseat](https://github.com/sideseat/sideseat)** - Unified workbench for building and debugging AI Agents (1 week ago)
-- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** - Desktop app to manage markdown knowledge bases (3 weeks ago)
+- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** - Desktop app to manage markdown knowledge bases (4 weeks ago)
 - **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (1 month ago)
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (2 months ago)
 - **[floci-io/floci](https://github.com/floci-io/floci)** - Light, fluffy, and always free - The AWS Local Emulator alternative (2 months ago)
