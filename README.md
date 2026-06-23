@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (2 months ago)
+- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (3 months ago)
 - [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (3 months ago)
 - [bagg3rs/spelling-star](https://github.com/bagg3rs/spelling-star) - ⭐ Spelling Star - Practice spelling words as a game (3 months ago)
 - [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (3 months ago)
@@ -26,7 +26,7 @@
 #### ⭐ Recent Stars
 
 
-- **[sideseat/sideseat](https://github.com/sideseat/sideseat)** - Unified workbench for building and debugging AI Agents (1 week ago)
+- **[sideseat/sideseat](https://github.com/sideseat/sideseat)** - Unified workbench for building and debugging AI Agents (2 weeks ago)
 - **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** - Desktop app to manage markdown knowledge bases (1 month ago)
 - **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (1 month ago)
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (2 months ago)
