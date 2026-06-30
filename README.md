@@ -18,7 +18,7 @@
 - [bagg3rs/spelling-star](https://github.com/bagg3rs/spelling-star) - ⭐ Spelling Star - Practice spelling words as a game (3 months ago)
 - [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (3 months ago)
 - [bagg3rs/prom-grafana](https://github.com/bagg3rs/prom-grafana) - Grafana &#43; Prometheus and friends via docker-compose (3 months ago)
-- [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (3 months ago)
+- [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (4 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (4 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (4 months ago)
 - [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (4 months ago)
@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 days ago)
-- **[sideseat/sideseat](https://github.com/sideseat/sideseat)** - Unified workbench for building and debugging AI Agents (2 weeks ago)
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 days ago)
+- **[sideseat/sideseat](https://github.com/sideseat/sideseat)** - Unified workbench for building and debugging AI Agents (3 weeks ago)
 - **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** - Desktop app to manage markdown knowledge bases (1 month ago)
 - **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (1 month ago)
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. (2 months ago)
