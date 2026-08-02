@@ -17,7 +17,7 @@
 - [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (4 months ago)
 - [bagg3rs/spelling-star](https://github.com/bagg3rs/spelling-star) - ⭐ Spelling Star - Practice spelling words as a game (4 months ago)
 - [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (4 months ago)
-- [bagg3rs/prom-grafana](https://github.com/bagg3rs/prom-grafana) - Grafana &#43; Prometheus and friends via docker-compose (4 months ago)
+- [bagg3rs/prom-grafana](https://github.com/bagg3rs/prom-grafana) - Grafana &#43; Prometheus and friends via docker-compose (5 months ago)
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (5 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (5 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (5 months ago)
@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
+- **[bagg3rs/road-trip-dj](https://github.com/bagg3rs/road-trip-dj)** - Location-aware AI DJ — plays regional music and narrates points of interest along your route (1 day ago)
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** - A skill that turn any brand into a scrollable 3D world (1 day ago)
 - **[getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 week ago)
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 month ago)
 - **[sideseat/sideseat](https://github.com/sideseat/sideseat)** - Unified workbench for building and debugging AI Agents (1 month ago)
-- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** - Desktop app to manage markdown knowledge bases (2 months ago)
-- **[cartesiancs/map3d](https://github.com/cartesiancs/map3d)** - 🗺️ Generate City 3D map with R3F. Include building and road information. (2 months ago)
