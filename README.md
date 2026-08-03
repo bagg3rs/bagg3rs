@@ -27,7 +27,7 @@
 
 
 - **[bagg3rs/road-trip-dj](https://github.com/bagg3rs/road-trip-dj)** - Location-aware AI DJ — plays regional music and narrates points of interest along your route (2 days ago)
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** - A skill that turn any brand into a scrollable 3D world (2 days ago)
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** - A skill that turn any brand into a scrollable 3D world landing page (2 days ago)
 - **[getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 week ago)
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 month ago)
 - **[sideseat/sideseat](https://github.com/sideseat/sideseat)** - Unified workbench for building and debugging AI Agents (1 month ago)
