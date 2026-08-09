@@ -26,8 +26,8 @@
 #### ⭐ Recent Stars
 
 
+- **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)** - A persistent workspace for development work that self-improves and continues beyond one session. (today)
 - **[bagg3rs/wave-to-backlog](https://github.com/bagg3rs/wave-to-backlog)** (5 days ago)
 - **[bagg3rs/road-trip-dj](https://github.com/bagg3rs/road-trip-dj)** - Location-aware AI DJ — plays regional music and narrates points of interest along your route (1 week ago)
 - **[oso95/scroll-world](https://github.com/oso95/scroll-world)** - A skill that turn any brand into a scrollable 3D world landing page (1 week ago)
 - **[getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)** - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (2 weeks ago)
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 month ago)
