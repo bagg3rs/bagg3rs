@@ -21,7 +21,7 @@
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (6 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (6 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (6 months ago)
-- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (6 months ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (7 months ago)
 
 #### ⭐ Recent Stars
 
