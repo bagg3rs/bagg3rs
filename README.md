@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (1 week ago)
+- [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (2 weeks ago)
 - [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (6 months ago)
 - [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (6 months ago)
 - [bagg3rs/spelling-star](https://github.com/bagg3rs/spelling-star) - ⭐ Spelling Star - Practice spelling words as a game (6 months ago)
@@ -26,7 +26,7 @@
 #### ⭐ Recent Stars
 
 
-- **[aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws)** (today)
+- **[aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws)** (1 day ago)
 - **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)** - A persistent workspace for development work that self-improves and continues beyond one session. (1 month ago)
 - **[bagg3rs/wave-to-backlog](https://github.com/bagg3rs/wave-to-backlog)** (2 months ago)
 - **[bagg3rs/road-trip-dj](https://github.com/bagg3rs/road-trip-dj)** - Location-aware AI DJ — plays regional music and narrates points of interest along your route (2 months ago)
