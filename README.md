@@ -26,7 +26,7 @@
 #### ⭐ Recent Stars
 
 
-- **[aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws)** (3 days ago)
+- **[aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws)** (4 days ago)
 - **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)** - A persistent workspace for development work that self-improves and continues beyond one session. (2 months ago)
 - **[bagg3rs/wave-to-backlog](https://github.com/bagg3rs/wave-to-backlog)** (2 months ago)
 - **[bagg3rs/road-trip-dj](https://github.com/bagg3rs/road-trip-dj)** - Location-aware AI DJ — plays regional music and narrates points of interest along your route (2 months ago)
