@@ -28,7 +28,7 @@
 
 
 - **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (4 days ago)
-- **[aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws)** (2 weeks ago)
+- **[aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws)** - Agentic data platform for UK government data on AWS. Bedrock AgentCore agents (Strands) turn natural language into SQL over a medallion lakehouse: Amazon S3, AWS Glue, S3 Tables (Iceberg) and Redshift Serverless. MCP gateway, GOV.UK web app on ECS Fargate, deployed with Terraform and CodePipeline. (2 weeks ago)
 - **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)** - A persistent workspace for development work that self-improves and continues beyond one session. (2 months ago)
 - **[bagg3rs/wave-to-backlog](https://github.com/bagg3rs/wave-to-backlog)** (2 months ago)
 - **[bagg3rs/road-trip-dj](https://github.com/bagg3rs/road-trip-dj)** - Location-aware AI DJ — plays regional music and narrates points of interest along your route (2 months ago)
