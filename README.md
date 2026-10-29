@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws) - Agentic data platform for UK government data on AWS. Bedrock AgentCore agents (Strands) turn natural language into SQL over a medallion lakehouse: Amazon S3, AWS Glue, S3 Tables (Iceberg) and Redshift Serverless. MCP gateway, GOV.UK web app on ECS Fargate, deployed with Terraform and CodePipeline. (today)
+- [aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws) - Agentic data platform for UK government data on AWS. Bedrock AgentCore agents (Strands) turn natural language into SQL over a medallion lakehouse: Amazon S3, AWS Glue, S3 Tables (Iceberg) and Redshift Serverless. MCP gateway, GOV.UK web app on ECS Fargate, deployed with Terraform and CodePipeline. (1 day ago)
 - [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (1 week ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (1 week ago)
 - [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (1 week ago)
@@ -27,7 +27,7 @@
 #### ⭐ Recent Stars
 
 
-- **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (6 days ago)
+- **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 - **[aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws)** - Agentic data platform for UK government data on AWS. Bedrock AgentCore agents (Strands) turn natural language into SQL over a medallion lakehouse: Amazon S3, AWS Glue, S3 Tables (Iceberg) and Redshift Serverless. MCP gateway, GOV.UK web app on ECS Fargate, deployed with Terraform and CodePipeline. (3 weeks ago)
 - **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)** - A persistent workspace for development work that self-improves and continues beyond one session. (2 months ago)
 - **[bagg3rs/wave-to-backlog](https://github.com/bagg3rs/wave-to-backlog)** (2 months ago)
