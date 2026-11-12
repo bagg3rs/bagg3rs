@@ -27,7 +27,7 @@
 #### ⭐ Recent Stars
 
 
-- **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (2 weeks ago)
+- **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (3 weeks ago)
 - **[aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws)** - Agentic data platform for UK government data on AWS. Bedrock AgentCore agents (Strands) turn natural language into SQL over a medallion lakehouse: Amazon S3, AWS Glue, S3 Tables (Iceberg) and Redshift Serverless. MCP gateway, GOV.UK web app on ECS Fargate, deployed with Terraform and CodePipeline. (1 month ago)
 - **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)** - A persistent workspace for development work that self-improves and continues beyond one session. (3 months ago)
 - **[bagg3rs/wave-to-backlog](https://github.com/bagg3rs/wave-to-backlog)** (3 months ago)
