@@ -13,8 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (1 day ago)
-- [aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws) - Agentic data platform for UK government data on AWS. Bedrock AgentCore agents (Strands) turn natural language into SQL over a medallion lakehouse: Amazon S3, AWS Glue, S3 Tables (Iceberg) and Redshift Serverless. MCP gateway, GOV.UK web app on ECS Fargate, deployed with Terraform and CodePipeline. (3 weeks ago)
+- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (2 days ago)
 - [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (1 month ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (1 month ago)
 - [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (1 month ago)
@@ -23,12 +22,13 @@
 - [bagg3rs/nas-synology](https://github.com/bagg3rs/nas-synology) - Things I did with my Synology NAS (8 months ago)
 - [bagg3rs/richardbaguley.com](https://github.com/bagg3rs/richardbaguley.com) - richardbaguley.com (8 months ago)
 - [bagg3rs/team-api](https://github.com/bagg3rs/team-api) - Team-API using Swagger and GitHub pages (9 months ago)
+- [bagg3rs/traefik](https://github.com/bagg3rs/traefik) - traefik repo (9 months ago)
 
 #### ⭐ Recent Stars
 
 
 - **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (4 weeks ago)
-- **[aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws](https://github.com/aws-samples/sample-code-for-government-data-platform-with-ai-agents-on-aws)** - Agentic data platform for UK government data on AWS. Bedrock AgentCore agents (Strands) turn natural language into SQL over a medallion lakehouse: Amazon S3, AWS Glue, S3 Tables (Iceberg) and Redshift Serverless. MCP gateway, GOV.UK web app on ECS Fargate, deployed with Terraform and CodePipeline. (1 month ago)
 - **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)** - A persistent workspace for development work that self-improves and continues beyond one session. (3 months ago)
 - **[bagg3rs/wave-to-backlog](https://github.com/bagg3rs/wave-to-backlog)** (3 months ago)
 - **[bagg3rs/road-trip-dj](https://github.com/bagg3rs/road-trip-dj)** - Location-aware AI DJ — plays regional music and narrates points of interest along your route (3 months ago)
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** - A skill that turn any brand into a scrollable 3D world landing page (3 months ago)
