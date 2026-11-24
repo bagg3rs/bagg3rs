@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (5 days ago)
+- [bagg3rs/clonal-succession](https://github.com/bagg3rs/clonal-succession) - Mathematical model and visualisation of clonal succession in tumours (6 days ago)
 - [bagg3rs/naboo](https://github.com/bagg3rs/naboo) -  (1 month ago)
 - [bagg3rs/diagrams-as-code](https://github.com/bagg3rs/diagrams-as-code) - Diagrams as Code repository (1 month ago)
 - [bagg3rs/repo-template](https://github.com/bagg3rs/repo-template) - Template repo with CI, Dependabot, auto-project board, and deploy scaffolding (2 months ago)
